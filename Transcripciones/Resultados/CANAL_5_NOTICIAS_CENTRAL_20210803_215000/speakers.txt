@@ -1,0 +1,46 @@
+Preguntas
+-hablan cuando la otra persona esta hablando , pero la otra persona sigue diciendo lo que estaba diciendo
+
+Por orden de aparicion
+SP1 - Leo
+SP2 - Gabriela
+SP3 - Núbel 
+SP4 - Soledad Deportes
+SP5 - Monica De Leon
+SP6 - Rafael Guardia
+SP7 - Periodista en off 1
+SP8 - Nicolas Jodal
+SP9 - Periodista en off 1
+SP10 - Daniel Salinas
+SP11 - Periodista con Salinas
+SP12 - Adriana Delfrario
+SP13 - Periodista en off 2  
+SP14 - Natalia Rego 
+SP15 - Beatriz Argimon
+SP16 - Azucena Arbeleche
+SP17 - Delegado Supergas
+SP18 - Periodista con delegado
+SP19 - Gustavo Gisulfo
+SP20 - Alvaro Delgado
+SP21 - Andrés Guichon
+SP22 - Alejandro Irastorza
+SP23 - Daniel Olesker
+SP24 - Enrique Rubio
+SP25 - Santi Castro
+SP26 - Felipe Kluver
+SP27 - Periodista con Kluver
+SP28 - Periodista con Kluver 2
+SP29 - Oveja Hernandez
+SP30 - Martin Deportes
+SP31 - Doblaje Bolsonaro
+SP32 - Periodista en off 3 
+SP33 - Propaganda BROU
+SP34 - Flavio Les
+SP35 - Pablo Couto
+SP36 - Cotizacion
+SP37 - Conrado Rodriguez
+SP38 - Periodista en off 4
+
+
+asr metricas - word error rate 
+buscar otras metricas , comparar con los otros

@@ -1,0 +1,98 @@
+Glosa 4:
+1)JUEVES DET
+ SOLUCI{ON HOY JUEVES Pro3-LLEVAR-Pro1 PASEAR
+ENTONCES IR RAMBLA
+DESPUÉS  PASEAR DIVERTIR
+____________int
+PRO2 HACER
+2)HORA FIN CINCO-Y-MEDIA FIN
+PRO1 JUNTO-PERSONA MADRE CUMPLEAÑOS ABUELA IR
+1)SI BIEN SI
+2)PRO1 DAR HERMANO/PRO1 DAR MONEDA YA PAGAR PRO2
+   ________________________________________int______________________int
+1)CÓMO-TE-FUE* PRO2 EXMAMEN QUÍMICA    CÓMO-TE-FUE QUÍMICA
+2)QUÍMICA DET BIEN
+PRO1 ESTUDIAR MUCHO
+PERO* TRES EJERCICIOS DET UNO PERFECTO DOS MÁS-O-MENOS TRES ÚLTIMO BIEN
+1)_______________int
+   PREGUNTA QUÉ
+2)SIGNIFICADO DIFÍCIL PRO2 ENTENDER NO
+1)LÁSTIMA
+2)MUCHAS COSAS MUCHAS COSAS DOS
+ESTUDIAR PRO1 GRUPO SI ENTENDER SI
+Pro1-CONTAR-Pro2 NO NO-PODER-CREER
+1)__________________________________________________int
+   AL FINAL PRO2 COMPRAR REGALO SEÑA-PERSONAL
+2)NO-SABER PENSAR PAGAR/COMPRAR LIBRO NO-SABER
+______________________int
+PRO2 PAGAR/COMPRAR
+1)PRO1 HABER COMPRAR DET VIERNES COMPRAR
+PRO1 IR SORPRESA YOUTUBE TODO-EL-GRUPO
+2)PRO1 HORA SEIS QUINCE
+1)FIN PRO2
+2)SEIS QUINCE PRO1 IGUAL PRO2L-GRUPO
+1)PRO1 FIN SEIS QUINCE TODO-EL-GRUPO IR CASA DET SEÑA-PERSONAL2
+_____int
+PRO2
+2)PRO1 NO-PODER PRO1 HORA SIETE JUGAR URUGUAY PRO1
+1)PELOTUDO Pro2-OLVIDAR PASEAR
+JUEGO
+IR PASEAR
+2)FIN CLASE PRO1 IR CASA VER FÚTBOL
+_____________________________int
+DESPUÉS IR CASA SP2 DORMIR
+HORA NUEVE DIEZ NOCHE Pro-3-CONTAR-Pro1 ANTES Pro3-CONTAR-Pro1
+1)IGUAL SP2 SP2 TAMBIÉN Pro3-PEDIR-Pro1 CASA NUEVE
+_____________________int
+CÓMO SABER/SEGURO
+2)CONTAR PRO3 NO-SABER
+______________________________int
+CONTAR MADRE PRO2 DESPUÉS
+1)SI SI SI PRO2 TAMBIÉN
+1) Este jueves. La solución parea hoy jueves es que él/ella me lleve a pasear. Entonces ir a la rambla a disfrutar de un paseo.
+Vos qué vas a hacer?
+2) Yo terninaré a las cinco y media. Yo iré con mi madre al cumplaeños de la abuela
+
+1) Sí, bien.
+2) Yo ya le dí a mi hermano la plata para pagarte a vos
+1) Cómo te fue en el examen de quimica? Cómo te fue en química?
+2) En química bien. Yo estudié mucho. Pero puso tres ejercicios. Hice uno perfecto y el otro más o menos y el último bien.
+1) Qúe preguntó?
+2) No entendí mucho. Es dificil entender el significado
+
+1)  Lástima
+2) Muchas cosas. Yo estudié dos (temas) en grupo y ahí entendí. Yo yo te cuento vos no lo vas a poder creer
+1) Al final le compraste el regalo a SEÑA PERSONAL
+2) NO sé que comprar. Capaz que compro un libro. No sé. Vos qué le vas a comprar?
+1) Yo le voy a comprar este viernes y vamos a hacer una sorpresa por youtube todo el grupo este viernes
+2) Yo termino a las 6 y 15 hs
+1) Vos terminás a esa hora?
+2) 6 y 15 al igual que todo tu grupo
+1) A las 6 y 15 todo el grupo va a la casa de SEÑA PERSONAL?
+2) Yo no puedo a las 7 juega Uruguay
+1) Qué pelotudo vas a dejar de pasear por el juego
+2) Yo termino las clases y me voy a casa a ver el fútbol. Después me quedo a dormir en la casa de SEÑA PERSONAL 2 a las nueve o diez de la noche él/ella me dijo que fuera
+1) A mí también SEÑA PERSONAL 2 me preguntó si podía ir a su casa a las nueve como para estar seguro.
+2) Le vas a contar a tu madre lo que él/ella te dijo?
+1) Sí, vos también
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

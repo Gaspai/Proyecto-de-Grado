@@ -1,0 +1,5 @@
+onmt-env/
+myenv/
+.ipynb_checkpoints/
+.conda/
+Experimento/

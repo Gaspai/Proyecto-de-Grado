@@ -1,0 +1,32 @@
+## Where the samples will be written
+save_data: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/training
+## Where the vocab(s) will be written
+src_vocab: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/training/Transcripcion.vocab.src
+tgt_vocab: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/training/Transcripcion.vocab.tgt
+feat_merge: "concat"
+# Prevent overwriting existing files in the folder
+overwrite: True
+
+# Corpus opts:
+
+data:
+    corpus_1:
+        path_src: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/Train_Src.txt
+        path_tgt: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/Train_Target.txt
+        transforms: [filtertoolong, inferfeats]
+
+      
+    valid:
+        path_src: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/Val_Src.txt
+        path_tgt: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/Val_Target.txt
+        transforms: [filtertoolong, inferfeats]
+
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: /content/drive/MyDrive/Proyecto/PruebaMejoraTranscripcion/training
+save_checkpoint_steps: 500
+train_steps: 10000
+valid_steps: 500

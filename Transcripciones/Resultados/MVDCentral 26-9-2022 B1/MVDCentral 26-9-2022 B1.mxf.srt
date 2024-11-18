@@ -1,0 +1,5512 @@
+1
+00:00:00,000 --> 00:00:20,000
+...
+
+2
+00:00:20,000 --> 00:00:21,000
+Buenas semanas, cómo les barrio,
+
+3
+00:00:21,000 --> 00:00:22,000
+aparecen las pantallas de TV,
+
+4
+00:00:22,000 --> 00:00:24,000
+Ciudad, MVD noticias,
+
+5
+00:00:24,000 --> 00:00:25,000
+Edición Central.
+
+6
+00:00:25,000 --> 00:00:27,000
+Natalia Nogués, bienvenida.
+
+7
+00:00:27,000 --> 00:00:28,000
+Muchas gracias, bienvenido,
+
+8
+00:00:28,000 --> 00:00:29,000
+también, Martín,
+
+9
+00:00:29,000 --> 00:00:32,000
+y terminando de septiembre, ya, increíble.
+
+10
+00:00:32,000 --> 00:00:36,000
+Estamos en la recta final del mes de inicio de la primavera,
+
+11
+00:00:36,000 --> 00:00:39,000
+ya metidos y metidas en primavera,
+
+12
+00:00:39,000 --> 00:00:41,000
+aunque todavía lo en el tiempo un poquito cambiante,
+
+13
+00:00:41,000 --> 00:00:43,000
+en la primavera viene con eso.
+
+14
+00:00:43,000 --> 00:00:45,000
+Viene con eso y con un montón de información.
+
+15
+00:00:45,000 --> 00:00:47,000
+Sí, que empezamos a repasar,
+
+16
+00:00:47,000 --> 00:00:51,000
+porque el presidente Luis de Acalle Pau se mostró sorprendido
+
+17
+00:00:51,000 --> 00:00:54,000
+por la detención del jefe de su custodia,
+
+18
+00:00:54,000 --> 00:00:56,000
+Alejandro Asteciano, quien recordemos,
+
+19
+00:00:56,000 --> 00:00:59,000
+fue arrestado ayer en la Residencia Presidencial
+
+20
+00:00:59,000 --> 00:01:02,000
+de Suárez y Reyes por su presunta responsabilidad
+
+21
+00:01:02,000 --> 00:01:05,000
+en la falsificación de documentos necesarios
+
+22
+00:01:05,000 --> 00:01:07,000
+para tramitar pasaportes rusos.
+
+23
+00:01:08,000 --> 00:01:10,000
+La causa está a cargo de la fiscal de Flagráncia
+
+24
+00:01:11,000 --> 00:01:12,000
+Gabriel Afosati.
+
+25
+00:01:12,000 --> 00:01:16,000
+El presidente confirmó que Asteciano lo acompañó
+
+26
+00:01:16,000 --> 00:01:20,000
+a su viaje de vacaciones y que la detención se produjo
+
+27
+00:01:20,000 --> 00:01:23,000
+poco después del arriba al país.
+
+28
+00:01:23,000 --> 00:01:27,000
+Además, se hizo responsable de su contratación,
+
+29
+00:01:27,000 --> 00:01:30,000
+aseguró que el funcionario no tiene antecedentes penales
+
+30
+00:01:30,000 --> 00:01:34,000
+aunque en el pasado hubo más de 20 indagatorias sobre su conducta.
+
+31
+00:01:34,000 --> 00:01:37,000
+Y también manifestó que hace unos 20 años,
+
+32
+00:01:38,000 --> 00:01:41,000
+grosso modo que había un vínculo por actividades políticas.
+
+33
+00:01:41,000 --> 00:01:42,000
+Por actividades políticas,
+
+34
+00:01:42,000 --> 00:01:46,000
+porque incluso había estado presente en la campaña de su padre.
+
+35
+00:01:46,000 --> 00:01:47,000
+Claro.
+
+36
+00:01:48,000 --> 00:01:49,000
+En una de las campañas de la expresidente.
+
+37
+00:01:49,000 --> 00:01:52,000
+Y así esto es simplemente el adelanto del principal,
+
+38
+00:01:52,000 --> 00:01:53,000
+pero hay más como siempre.
+
+39
+00:01:53,000 --> 00:01:58,000
+Y hay más si tenemos los titulares.
+
+40
+00:01:58,000 --> 00:02:00,000
+Fasa informática dejó sin actividad a su cruzare
+
+41
+00:02:00,000 --> 00:02:02,000
+del bro y a su aplicación y bro.
+
+42
+00:02:02,000 --> 00:02:05,000
+El comisario mayor Álvaro Trinidad ordenó tareas de seguimiento
+
+43
+00:02:05,000 --> 00:02:08,000
+y vigilancia sobre Gabriel Pereira por informaciones
+
+44
+00:02:08,000 --> 00:02:12,000
+sobre corrupción policial que estaba divulgando el periodista.
+
+45
+00:02:12,000 --> 00:02:14,000
+El sindicato policial de Montevideo expresó preocupación
+
+46
+00:02:14,000 --> 00:02:17,000
+por las denuncias sobre escuchas telefónicas y legales
+
+47
+00:02:17,000 --> 00:02:19,000
+a dirigentes de la organización.
+
+48
+00:02:19,000 --> 00:02:21,000
+El presidente del gremio del periodista
+
+49
+00:02:21,000 --> 00:02:24,000
+se afirmó que se activó una lusa amarilla en cuanto a la situación
+
+50
+00:02:24,000 --> 00:02:26,000
+de la libertad de expresión en Uruguay.
+
+51
+00:02:26,000 --> 00:02:27,000
+En el día mundial,
+
+52
+00:02:27,000 --> 00:02:27,000
+grande concepción,
+
+53
+00:02:28,000 --> 00:02:30,000
+el movimiento por los derechos sexuales y reproductivos
+
+54
+00:02:30,000 --> 00:02:33,000
+pide más educación y mayor compromiso del Estado
+
+55
+00:02:33,000 --> 00:02:34,000
+en asegurar el acceso.
+
+56
+00:02:34,000 --> 00:02:37,000
+Intergremía al universitaria anunció una serie de movilizaciones
+
+57
+00:02:37,000 --> 00:02:39,000
+en reclamo de mayor presupuesto,
+
+58
+00:02:39,000 --> 00:02:41,000
+ocupará las facultades de psicología,
+
+59
+00:02:41,000 --> 00:02:44,000
+de información y comunicación y de ciencias económicas,
+
+60
+00:02:44,000 --> 00:02:47,000
+además del ICF y la CEDE mal donado del Cure.
+
+61
+00:02:47,000 --> 00:02:49,000
+La asociación de profesores de literatura del Uruguay
+
+62
+00:02:49,000 --> 00:02:52,000
+manifestó hoy su preocupación por los anuncios de cambio
+
+63
+00:02:52,000 --> 00:02:55,000
+sacargo de las autoridades de la educación.
+
+64
+00:02:55,000 --> 00:02:57,000
+El presidente del Frente Amplio Fernando Pereira
+
+65
+00:02:57,000 --> 00:03:00,000
+dijo que el gobierno tiene indignación selectiva
+
+66
+00:03:00,000 --> 00:03:02,000
+por la alimentación en las escuelas.
+
+67
+00:03:02,000 --> 00:03:03,000
+Ugo al menos 15 muertes,
+
+68
+00:03:03,000 --> 00:03:05,000
+entre ellos, las de 11 niños y niñas,
+
+69
+00:03:05,000 --> 00:03:07,000
+era un tilo teo, era una escuela rusa.
+
+70
+00:03:08,000 --> 00:03:10,000
+La coalición de derecha italiana ganó las elecciones
+
+71
+00:03:10,000 --> 00:03:13,000
+con 44% de los votos y su líder,
+
+72
+00:03:13,000 --> 00:03:15,000
+la dirigente neofacista,
+
+73
+00:03:15,000 --> 00:03:16,000
+George Ameloni,
+
+74
+00:03:16,000 --> 00:03:19,000
+se disponía convertirse en la primera mujer que gobierno el país.
+
+75
+00:03:20,000 --> 00:03:22,000
+El interior vibró con el festival de Folclore en Duraz,
+
+76
+00:03:22,000 --> 00:03:24,000
+no, la fiesta del chorizo en Pandia Sucar
+
+77
+00:03:24,000 --> 00:03:26,000
+y la fiesta de la chacra en Caneloines.
+
+78
+00:03:32,000 --> 00:03:34,000
+El saludo a quienes nos están escuchando a través de un irradio,
+
+79
+00:03:34,000 --> 00:03:38,000
+107.7 FM o un irradio.edu.
+
+80
+00:03:38,000 --> 00:03:42,000
+Y creo que empezamos nuestra recorrida por exteriores, Martín.
+
+81
+00:03:43,000 --> 00:03:45,000
+Así es, Natalia, con la pregunta de siempre,
+
+82
+00:03:45,000 --> 00:03:47,000
+¿qué es el que nos da a dar a los móviles hoy?
+
+83
+00:03:47,000 --> 00:03:49,000
+¿Qué temas tendrán?
+
+84
+00:03:49,000 --> 00:03:51,000
+El movilero y la movilera hoy en Tremano.
+
+85
+00:03:51,000 --> 00:03:52,000
+Empezamos por el movilero Diego Martín,
+
+86
+00:03:53,000 --> 00:03:55,000
+y que tiene en Tremano el tema del día,
+
+87
+00:03:55,000 --> 00:03:57,000
+así que ya mismo establecemos contacto para saber
+
+88
+00:03:57,000 --> 00:04:00,000
+cómo podemos adelantar más de lo que mencionamos.
+
+89
+00:04:00,000 --> 00:04:01,000
+¿Cómo te va Diego?
+
+90
+00:04:02,000 --> 00:04:04,000
+Así es, compañeros, muy buenas tardes para ustedes.
+
+91
+00:04:04,000 --> 00:04:06,000
+Nos encontramos acá en Plaza Independencia,
+
+92
+00:04:06,000 --> 00:04:08,000
+de nuestra palda,
+
+93
+00:04:08,000 --> 00:04:10,000
+la Presidencia, la Torre Ejecutiva,
+
+94
+00:04:10,000 --> 00:04:12,000
+la jornada de hoy se dio principalmente acá,
+
+95
+00:04:12,000 --> 00:04:13,000
+porque el presidente de la República,
+
+96
+00:04:13,000 --> 00:04:15,000
+y en una ocasión,
+
+97
+00:04:15,000 --> 00:04:18,000
+y que ya está intentando dar del primer par de brindó
+
+98
+00:04:18,000 --> 00:04:20,000
+una conferencia de prensa sobre lo que fue la detención
+
+99
+00:04:21,000 --> 00:04:23,000
+de su jefe de custodia,
+
+100
+00:04:23,000 --> 00:04:25,000
+Alejandro Asteniano,
+
+101
+00:04:25,000 --> 00:04:29,000
+que fue detenido a hacer justamente en Suárez y Reces,
+
+102
+00:04:29,000 --> 00:04:32,000
+y el presidente se enteró por el propio Asteniano,
+
+103
+00:04:32,000 --> 00:04:35,000
+cuando llegó a Suárez y Reces, que lo iban a detener,
+
+104
+00:04:35,000 --> 00:04:38,000
+y esto fue dado a la información por el jefe de información
+
+105
+00:04:38,000 --> 00:04:41,000
+e inteligencia, Claudio Correa, quien le aseguró que,
+
+106
+00:04:41,000 --> 00:04:44,000
+no debe herender partidas de nacimiento falsas
+
+107
+00:04:44,000 --> 00:04:47,000
+para que ciudadanos rusos que están necesitando pasaportes
+
+108
+00:04:47,000 --> 00:04:50,000
+para poder salir de su país producto de la guerra con Ucrania.
+
+109
+00:04:51,000 --> 00:04:55,000
+Bueno, les daba ese material, le damos ese requisito administrativo
+
+110
+00:04:55,000 --> 00:04:57,000
+para poder tener pasaportes falsos.
+
+111
+00:04:58,000 --> 00:05:01,000
+Se dio cuenta de una persona o un funciono ruso de nombre
+
+112
+00:05:01,000 --> 00:05:05,000
+Román Crapop que solicitó un pasaporte,
+
+113
+00:05:05,000 --> 00:05:07,000
+se dio cuenta de ciudadanos uruguasos
+
+114
+00:05:08,000 --> 00:05:09,000
+que le estaba abrindando esta información
+
+115
+00:05:09,000 --> 00:05:12,000
+y se cebo a la figura de Alejandro Asteniano.
+
+116
+00:05:12,000 --> 00:05:15,000
+Hoy el presidente dijo que se manifestó totalmente sorprendido
+
+117
+00:05:15,000 --> 00:05:17,000
+por más que Asteniano tenía más de 20 integratorias
+
+118
+00:05:17,000 --> 00:05:18,000
+pero atención con este dato.
+
+119
+00:05:18,000 --> 00:05:22,000
+Hoy Asteniano, cuando se hizo el control de detención
+
+120
+00:05:22,000 --> 00:05:24,000
+fiscalía, reconoció que él tenía un antecedente
+
+121
+00:05:24,000 --> 00:05:26,000
+y eso es un antecedente del año 2002
+
+122
+00:05:26,000 --> 00:05:27,000
+por esta fa aunque es impresión,
+
+123
+00:05:27,000 --> 00:05:29,000
+un antecedente que además prescribió.
+
+124
+00:05:29,000 --> 00:05:30,000
+Pero, tenemos ampliado en minutos,
+
+125
+00:05:30,000 --> 00:05:32,000
+nomás sobre lo que dijo el presidente
+
+126
+00:05:32,000 --> 00:05:34,000
+y sobre quién es Asteniano.
+
+127
+00:05:34,000 --> 00:05:35,000
+Gracias, Diego.
+
+128
+00:05:35,000 --> 00:05:38,000
+El móvil planteado y agregó repercusión
+
+129
+00:05:38,000 --> 00:05:40,000
+para esos macarena vicos, segundo móvil,
+
+130
+00:05:40,000 --> 00:05:42,000
+motivó a macarena buenas noches.
+
+131
+00:05:43,000 --> 00:05:45,000
+Bueno, en archas compañeros estamos en la sede
+
+132
+00:05:45,000 --> 00:05:47,000
+del frente de amplio porque la mesa política está
+
+133
+00:05:47,000 --> 00:05:49,000
+trabajando varios temas entre ellos,
+
+134
+00:05:49,000 --> 00:05:52,000
+la inseguridad alimentaria de varias personas
+
+135
+00:05:52,000 --> 00:05:53,000
+de la población uruguayana
+
+136
+00:05:53,000 --> 00:05:56,000
+y el precio del combustible basado en los técnicos,
+
+137
+00:05:56,000 --> 00:05:59,000
+en los informes de los técnicos dentro de Ancap.
+
+138
+00:05:59,000 --> 00:06:01,000
+Pero además, en las últimas horas sumo
+
+139
+00:06:01,000 --> 00:06:05,000
+las repercusiones que puede tener la detención
+
+140
+00:06:05,000 --> 00:06:07,000
+del jefe de seguridad de la presidencia
+
+141
+00:06:07,000 --> 00:06:08,000
+como comentaba recién Diego,
+
+142
+00:06:08,000 --> 00:06:10,000
+bueno, habrá declaraciones más tarde
+
+143
+00:06:10,000 --> 00:06:12,000
+de parte de la mesa política sobre este tema también.
+
+144
+00:06:21,000 --> 00:06:24,000
+Se han dicho muchas cosas aparte este día como siempre.
+
+145
+00:06:24,000 --> 00:06:25,000
+¿Qué se dijo?
+
+146
+00:06:25,000 --> 00:06:26,000
+A ver.
+
+147
+00:06:29,000 --> 00:06:31,000
+Hasta el viernes nos sabíamos y efectivamente
+
+148
+00:06:31,000 --> 00:06:36,000
+en el primer ciclo, bueno, ahora en este tercer proyecto
+
+149
+00:06:36,000 --> 00:06:38,000
+íbamos a tener presencia, la presidencia y la criatura
+
+150
+00:06:38,000 --> 00:06:40,000
+y en realidad, cambia la denominación
+
+151
+00:06:40,000 --> 00:06:42,000
+en esta arte con el fácil es el iterativo.
+
+152
+00:06:42,000 --> 00:06:46,000
+Hay cursos de ciencia físicas en primero y en segundo
+
+153
+00:06:46,000 --> 00:06:51,000
+y pasaríamos a tener un taller optativo en séptimo.
+
+154
+00:06:51,000 --> 00:06:53,000
+La realidad de este país era
+
+155
+00:06:53,000 --> 00:06:57,000
+que el sistema estaba curricular y en general,
+
+156
+00:06:57,000 --> 00:06:58,000
+pero curricular en particular,
+
+157
+00:06:58,000 --> 00:07:00,000
+estaba absolutamente fragmentado.
+
+158
+00:07:00,000 --> 00:07:03,000
+La discusión educativa continua más adelante,
+
+159
+00:07:04,000 --> 00:07:04,000
+tendremos más.
+
+160
+00:07:05,000 --> 00:07:08,000
+Y tenemos otro de los adelantos con nuestra compañera Julieta
+
+161
+00:07:08,000 --> 00:07:09,000
+Núñez Tomas.
+
+162
+00:07:10,000 --> 00:07:11,000
+¿Cómo están compañeros?
+
+163
+00:07:11,000 --> 00:07:12,000
+Espero que estén muy bien.
+
+164
+00:07:13,000 --> 00:07:14,000
+Más allá de toda esta agenda claramente política,
+
+165
+00:07:15,000 --> 00:07:16,000
+ahí también una agenda de derechos
+
+166
+00:07:17,000 --> 00:07:20,000
+y de hecho hoy es el día mundial de la anticoncepción
+
+167
+00:07:21,000 --> 00:07:22,000
+y sobre eso estará hablando en el informe
+
+168
+00:07:23,000 --> 00:07:23,000
+del día de hoy.
+
+169
+00:07:24,000 --> 00:07:25,000
+¿Qué es la anticoncepción?
+
+170
+00:07:26,000 --> 00:07:27,000
+¿Por qué si la considera un derecho?
+
+171
+00:07:27,000 --> 00:07:31,000
+¿Cuáles son los números de acceso a la anticoncepción
+
+172
+00:07:31,000 --> 00:07:32,000
+en nuestro país?
+
+173
+00:07:32,000 --> 00:07:35,000
+¿Y también qué es lo que debe estar presente
+
+174
+00:07:35,000 --> 00:07:38,000
+en la consulta genecoológica una vez que una persona
+
+175
+00:07:38,000 --> 00:07:41,000
+elige a averiguar un poco más y decidir tomar decisiones
+
+176
+00:07:41,000 --> 00:07:43,000
+con respecto a la anticoncepción?
+
+177
+00:07:43,000 --> 00:07:46,000
+Sobre todo esto, vamos a estar hablando en los minutitos
+
+178
+00:07:46,000 --> 00:07:47,000
+nada más.
+
+179
+00:07:47,000 --> 00:07:49,000
+¿Cómo se sabe aparte del informe de cotidiano de Julieta?
+
+180
+00:07:49,000 --> 00:07:52,000
+Tenemos habitualmente columnas de distintos temas
+
+181
+00:07:52,000 --> 00:07:54,000
+y el ambiente ha ido Natalia ganando espacio
+
+182
+00:07:54,000 --> 00:07:55,000
+en el MWD de Noticias.
+
+183
+00:07:55,000 --> 00:08:00,000
+Por suerte en este informativo, en esta edición
+
+184
+00:08:00,000 --> 00:08:03,000
+está teniendo un gran espacio y por eso tenemos una columna
+
+185
+00:08:03,000 --> 00:08:06,000
+semanal de nuestra compañera, Mariana Breu.
+
+186
+00:08:06,000 --> 00:08:07,000
+Bienvenida, Mariana.
+
+187
+00:08:07,000 --> 00:08:09,000
+¿Cómo andan compañeros buenas noches?
+
+188
+00:08:09,000 --> 00:08:12,000
+Vamos a estar hablando del agua y del proyecto Neptuno
+
+189
+00:08:12,000 --> 00:08:14,000
+un tema que ya abordamos pero vamos a ir
+
+190
+00:08:14,000 --> 00:08:17,000
+por otra de las discusiones que hay en relación
+
+191
+00:08:17,000 --> 00:08:19,000
+a esta nueva planta potabilizadora que se pretende
+
+192
+00:08:19,000 --> 00:08:22,000
+construir en el departamento de San José.
+
+193
+00:08:22,000 --> 00:08:26,000
+Hablamos el modelo de gestión implica o no la privatización
+
+194
+00:08:26,000 --> 00:08:29,000
+del agua y ahora vamos a abordar esta nueva interroguante
+
+195
+00:08:29,000 --> 00:08:33,000
+de ese proyecto Neptuno es la mejor alternativa o no
+
+196
+00:08:33,000 --> 00:08:37,000
+para dar solución al problema de la abastecimiento
+
+197
+00:08:37,000 --> 00:08:39,000
+de agua potable en nuestro país.
+
+198
+00:08:42,000 --> 00:08:43,000
+Muchas gracias.
+
+199
+00:08:43,000 --> 00:08:44,000
+Seguimos adelante con otras informaciones
+
+200
+00:08:44,000 --> 00:08:47,000
+porque hay justamente mucho para avanzar en estas jornadas.
+
+201
+00:08:47,000 --> 00:08:49,000
+Estamos esperando el contacto con nuestros compañeros
+
+202
+00:08:49,000 --> 00:08:53,000
+en los móviles, el tema del día, ha sido presentado por Diego
+
+203
+00:08:53,000 --> 00:08:54,000
+y creo que sigue por ahí.
+
+204
+00:08:54,000 --> 00:08:57,000
+Sí, vamos al contacto con nuestro compañero Diego Martini.
+
+205
+00:08:59,000 --> 00:09:00,000
+Así es, compañeros.
+
+206
+00:09:00,000 --> 00:09:03,000
+Recórdenos lo que fue esta jornada en la introducción
+
+207
+00:09:03,000 --> 00:09:06,000
+tide bastante información porque hay bastante información
+
+208
+00:09:06,000 --> 00:09:09,000
+a propósito de lo que es este caso de Alejandro Asteniano,
+
+209
+00:09:09,000 --> 00:09:11,000
+el jefe de custodia del presidente de la CASEPO.
+
+210
+00:09:11,000 --> 00:09:14,000
+Recórdenos que el presidente de la CASEPO pidió licencia
+
+211
+00:09:14,000 --> 00:09:16,000
+para irse vacaciones del 20 al 25 de septiembre.
+
+212
+00:09:16,000 --> 00:09:20,000
+Esto fue la semana pasada a Alejandro Asteniano acompañó
+
+213
+00:09:20,000 --> 00:09:21,000
+al presidente de la CASEPO,
+
+214
+00:09:21,000 --> 00:09:23,000
+porque es parte de su anillo de diamantes,
+
+215
+00:09:23,000 --> 00:09:25,000
+como se dice, esa custodia personal
+
+216
+00:09:25,000 --> 00:09:27,000
+que lo acompaña siempre al presidente,
+
+217
+00:09:27,000 --> 00:09:28,000
+que es parte de su sombra, digamos,
+
+218
+00:09:28,000 --> 00:09:32,000
+para el cuidado de lo que requiere un mandatario presidencial.
+
+219
+00:09:32,000 --> 00:09:34,000
+Alejandro Asteniano lo conocí como dijo el presidente hoy
+
+220
+00:09:35,000 --> 00:09:37,000
+acá en la conferencia de prensa de 1999,
+
+221
+00:09:37,000 --> 00:09:40,000
+porque era parte de la seguridad
+
+222
+00:09:40,000 --> 00:09:41,000
+y por ese intermedio le decía el presidente
+
+223
+00:09:42,000 --> 00:09:44,000
+de el ex Canciller Sergio Abreu,
+
+224
+00:09:44,000 --> 00:09:47,000
+que sí es donde conoce el presidente a Alejandro Asteniano.
+
+225
+00:09:47,000 --> 00:09:49,000
+Bueno, estando el presidente de vacaciones,
+
+226
+00:09:49,000 --> 00:09:52,000
+cuando llega, cuando va a suérez y recién se encuentra
+
+227
+00:09:52,000 --> 00:09:55,000
+que el director de información y inteligencia
+
+228
+00:09:55,000 --> 00:09:58,000
+a Clávio Correa le manifiesta que se lo van a llevar
+
+229
+00:09:58,000 --> 00:10:01,000
+detenido a Alejandro Asteniano por pedido de la fiscal
+
+230
+00:10:01,000 --> 00:10:03,000
+Gabriel Afosat, el presidente de dijo que esto lo tomó
+
+231
+00:10:03,000 --> 00:10:05,000
+absolutamente por sorpresa,
+
+232
+00:10:05,000 --> 00:10:08,000
+que no tenía ningún indicio que esto podía pasar
+
+233
+00:10:08,000 --> 00:10:11,000
+y el presidente hoy lo explicó en conferencia de prensa,
+
+234
+00:10:11,000 --> 00:10:14,000
+así que escuchemos parte de lo que dijo el presidente de la República.
+
+235
+00:10:18,000 --> 00:10:21,000
+Si ustedes se sorprendieron de la noticia,
+
+236
+00:10:21,000 --> 00:10:26,000
+imagínense quién habla cuando estos últimos cinco días
+
+237
+00:10:26,000 --> 00:10:29,000
+se estaba afuera con mis hijos
+
+238
+00:10:29,000 --> 00:10:33,000
+y con la persona que haya fue detenida,
+
+239
+00:10:33,000 --> 00:10:37,000
+cuando llega al aeropuerto de Carrasco a la base aérea,
+
+240
+00:10:37,000 --> 00:10:41,000
+se me informa por esta propia persona,
+
+241
+00:10:41,000 --> 00:10:44,000
+el jefe de la seguridad, de mi seguridad,
+
+242
+00:10:44,000 --> 00:10:49,000
+de que estaba en la residencia presidencial,
+
+243
+00:10:49,000 --> 00:10:53,000
+el director de inteligencia,
+
+244
+00:10:53,000 --> 00:10:58,000
+el señor Correa, esperando a mí,
+
+245
+00:10:58,000 --> 00:11:02,000
+allí concurrí, apenas llegué a la casa a Suárez Chico
+
+246
+00:11:02,000 --> 00:11:06,000
+en un breve intercambio de palabras,
+
+247
+00:11:06,000 --> 00:11:09,000
+me dijo que se trataba del asunto,
+
+248
+00:11:09,000 --> 00:11:15,000
+convocamos a esta persona al escritorio donde estábamos reunidos
+
+249
+00:11:15,000 --> 00:11:17,000
+y se lo de tuvo.
+
+250
+00:11:17,000 --> 00:11:22,000
+Yo lo conocí alejando el año 99 en una campaña,
+
+251
+00:11:23,000 --> 00:11:25,000
+después lo vi de vuelta en el 2004,
+
+252
+00:11:25,000 --> 00:11:28,000
+después lo vi de vuelta en el 2014
+
+253
+00:11:28,000 --> 00:11:30,000
+y en el 2019 me acompañó en toda la campaña.
+
+254
+00:11:30,000 --> 00:11:33,000
+Me cuida a mí, a mi familia,
+
+255
+00:11:33,000 --> 00:11:35,000
+yo no lo entrego lo más precioso que tengo que mi familia,
+
+256
+00:11:35,000 --> 00:11:37,000
+una persona que pueda tener un indicio
+
+257
+00:11:37,000 --> 00:11:39,000
+de que actúa por fuera de la ley.
+
+258
+00:11:39,000 --> 00:11:41,000
+No tiene antecedentes penales,
+
+259
+00:11:41,000 --> 00:11:44,000
+de hecho, ustedes no sé si ustedes,
+
+260
+00:11:44,000 --> 00:11:47,000
+tu propio medio, pero los medios lo publicaron en su momento,
+
+261
+00:11:47,000 --> 00:11:52,000
+no tienen antecedentes penales.
+
+262
+00:11:52,000 --> 00:11:55,000
+Y sobre lo que va a suceder,
+
+263
+00:11:55,000 --> 00:11:58,000
+todo el mundo sinocente hasta que se muestre lo contrario.
+
+264
+00:11:59,000 --> 00:12:01,000
+Yo los elementos que tengo hasta este momento
+
+265
+00:12:02,000 --> 00:12:03,000
+es que una orden de detención,
+
+266
+00:12:03,000 --> 00:12:07,000
+una orden de detención no se libra porque sí
+
+267
+00:12:07,000 --> 00:12:10,000
+me imagino que la fiscal tiene indicios,
+
+268
+00:12:10,000 --> 00:12:13,000
+no sé de qué involucramiento lo desconozco,
+
+269
+00:12:13,000 --> 00:12:16,000
+veremos después de las próximas horas
+
+270
+00:12:17,000 --> 00:12:21,000
+cuál es el dictamen primario que hace la fiscal
+
+271
+00:12:21,000 --> 00:12:25,000
+y obviamente que uno te maralas medidas en consecuencia.
+
+272
+00:12:28,000 --> 00:12:31,000
+Bien, ha dictado la palabra del presidente
+
+273
+00:12:31,000 --> 00:12:34,000
+a propósito de Alejandro Asteniano y su detención.
+
+274
+00:12:34,000 --> 00:12:38,000
+Ahora, Alejandro Asteniano tenía más de 20 indagatorias
+
+275
+00:12:38,000 --> 00:12:43,000
+por lo menos de 2003 frente a la justicia por diversos delitos.
+
+276
+00:12:43,000 --> 00:12:46,000
+Estos son indagatorias, no son antecedentes respecto
+
+277
+00:12:46,000 --> 00:12:47,000
+a lo que es el presidente.
+
+278
+00:12:47,000 --> 00:12:49,000
+Ahora bien, hoy el propio Alejandro Asteniano,
+
+279
+00:12:49,000 --> 00:12:51,000
+cuando se le hizo el control de detención,
+
+280
+00:12:51,000 --> 00:12:53,000
+estaba detenido por la fiscalía que tiene un plazo máximo
+
+281
+00:12:53,000 --> 00:12:56,000
+de 48 horas, hoy se estarían cumpliendo las primeras 24
+
+282
+00:12:56,000 --> 00:12:59,000
+por lo que fiscalía mañana definirá si lo imputa
+
+283
+00:12:59,000 --> 00:13:01,000
+o no, Alejandro Asteniano,
+
+284
+00:13:01,000 --> 00:13:03,000
+el propio Alejandro Asteniano hoy reconoció
+
+285
+00:13:03,000 --> 00:13:05,000
+que tuvo antecedentes penales
+
+286
+00:13:05,000 --> 00:13:09,000
+y se refiere justamente a una causa del 18 de abril de 2002
+
+287
+00:13:09,000 --> 00:13:12,000
+por esta fa en una pena que se le dio sin prisión,
+
+288
+00:13:13,000 --> 00:13:16,000
+pero en ese momento se lo condenó en un delito que se ha prescribiros
+
+289
+00:13:16,000 --> 00:13:19,000
+por ende está bien, técnicamente no tiene antecedentes.
+
+290
+00:13:19,000 --> 00:13:21,000
+Pero hoy cuando se le consultó a Asteniano por esto,
+
+291
+00:13:21,000 --> 00:13:25,000
+él dijo que sí tenía esta causa del 2002.
+
+292
+00:13:25,000 --> 00:13:27,000
+Les propongo en este breve resumen
+
+293
+00:13:27,000 --> 00:13:30,000
+ver todas las indagatorias que tuvo Asteniano.
+
+294
+00:13:30,000 --> 00:13:32,000
+Alejandro Andrés Artesiano,
+
+295
+00:13:32,000 --> 00:13:35,000
+Seberghini de 48 años, Uruguayo, Casado,
+
+296
+00:13:35,000 --> 00:13:37,000
+es exchefe de seguridad presidencial.
+
+297
+00:13:37,000 --> 00:13:40,000
+Según los registros del sistema de gestión de seguridad pública,
+
+298
+00:13:40,000 --> 00:13:42,000
+Artesiano tuvo indagatorias por delitos de Hurto,
+
+299
+00:13:43,000 --> 00:13:45,000
+estafa, aprofasión, indevida y daño.
+
+300
+00:13:45,000 --> 00:13:47,000
+Los primeros registros son de 2003.
+
+301
+00:13:47,000 --> 00:13:50,000
+La mayoría de las indagatorias del jefe de custodia presidencial
+
+302
+00:13:50,000 --> 00:13:52,000
+fueron en un monte de video, pero también tienen indagatorias
+
+303
+00:13:52,000 --> 00:13:54,000
+en canelones mal donados y colonias por estafa.
+
+304
+00:13:54,000 --> 00:13:57,000
+En el sistema de gestión de seguridad pública
+
+305
+00:13:57,000 --> 00:13:59,000
+no figuran en un antecedente judicial.
+
+306
+00:13:59,000 --> 00:14:01,000
+En septiembre de 2003 fue indagado por Hurto
+
+307
+00:14:01,000 --> 00:14:03,000
+y en diciembre del mismo año por aprofasión, indevida.
+
+308
+00:14:04,000 --> 00:14:07,000
+En julio de 2004 también fue indagado por aprofasión, indevida.
+
+309
+00:14:07,000 --> 00:14:11,000
+En 2005 fue indagado otra vez por aprofasión, indevida y por delito de estafa.
+
+310
+00:14:11,000 --> 00:14:14,000
+En abril de 2007 figura una indagatoria por Hurto.
+
+311
+00:14:14,000 --> 00:14:17,000
+En noviembre tiene dos eventos policiales caragados del mismo día,
+
+312
+00:14:17,000 --> 00:14:20,000
+una sociedad un vehículo recuperado y otro por aprofasión, indevida.
+
+313
+00:14:21,000 --> 00:14:23,000
+En abril de 2009 fue investigado por estafa.
+
+314
+00:14:23,000 --> 00:14:26,000
+En diciembre de 2011 por estafa, esta vez en canelones.
+
+315
+00:14:26,000 --> 00:14:28,000
+Ese mismo vez fue indagado por estafa en colonia.
+
+316
+00:14:28,000 --> 00:14:33,000
+En 2012 tiene diez eventos policiales cargados en el sistema de gestión de seguridad pública.
+
+317
+00:14:33,000 --> 00:14:35,000
+Cuatro requisitorias, una averiguación de paradero,
+
+318
+00:14:36,000 --> 00:14:40,000
+una constancia policial y cuatro indagatorias por delitos de año en agosto,
+
+319
+00:14:40,000 --> 00:14:42,000
+aprofasión, indevida en agosto y dos estafas se maldornado.
+
+320
+00:14:43,000 --> 00:14:45,000
+En diciembre, con diferencia de una semana.
+
+321
+00:14:45,000 --> 00:14:47,000
+En 2013 volvió a ser indagado por estafa.
+
+322
+00:14:47,000 --> 00:14:49,000
+En 2014 tuvo otra constancia policial,
+
+323
+00:14:50,000 --> 00:14:51,000
+esta vez de la Unidad de Delitos Complexos
+
+324
+00:14:51,000 --> 00:14:53,000
+de la Dirección de Investigaciones de la Policía.
+
+325
+00:14:53,000 --> 00:14:56,000
+En julio de 2017 una requisitoria de averiguación de paradero
+
+326
+00:14:56,000 --> 00:14:58,000
+y en septiembre de 2018 tiene otra.
+
+327
+00:14:59,000 --> 00:15:01,000
+Según informó Sarandí, el ex policía Jorge Luis Borges,
+
+328
+00:15:01,000 --> 00:15:03,000
+uno de los subjefes de artesiano,
+
+329
+00:15:03,000 --> 00:15:05,000
+trabajó en la zona cuatro del área de investigaciones
+
+330
+00:15:05,000 --> 00:15:07,000
+de la jefatura de policía de Montevideo.
+
+331
+00:15:07,000 --> 00:15:09,000
+Sarandí consiguió que entreguen un grupo de policías
+
+332
+00:15:09,000 --> 00:15:13,000
+que fueron indagados por extorsión, privación de libertad y coimas.
+
+333
+00:15:13,000 --> 00:15:16,000
+El decreto 16-006 de 2006,
+
+334
+00:15:16,000 --> 00:15:18,000
+reglamenta el servicio de seguridad presidencial.
+
+335
+00:15:18,000 --> 00:15:20,000
+Es una dependencia de la presidencia de la República,
+
+336
+00:15:20,000 --> 00:15:23,000
+subordinada a la prosecretaridad de presidencia.
+
+337
+00:15:23,000 --> 00:15:25,000
+El prosecretario es el encargado de coordinar
+
+338
+00:15:25,000 --> 00:15:28,000
+todos los referentes a la seguridad del presidente de la República,
+
+339
+00:15:28,000 --> 00:15:30,000
+su familia y de quienes se disponga.
+
+340
+00:15:30,000 --> 00:15:33,000
+El asociamiento y comando está cargo del quefe de servicio,
+
+341
+00:15:33,000 --> 00:15:34,000
+es decir, de artesiano.
+
+342
+00:15:34,000 --> 00:15:37,000
+Las funciones de artesiano son las de administrar los recursos asignados
+
+343
+00:15:38,000 --> 00:15:38,000
+a su dependencia,
+
+344
+00:15:38,000 --> 00:15:41,000
+se enlace directo con el Ministerio del Interior y la Policía,
+
+345
+00:15:41,000 --> 00:15:44,000
+coordinar con los militares la seguridad primitral
+
+346
+00:15:44,000 --> 00:15:47,000
+y controlar el cumplimiento administrativo de las medidas que se toman.
+
+347
+00:15:51,000 --> 00:15:53,000
+Bueno, como hay que recordemos,
+
+348
+00:15:53,000 --> 00:15:56,000
+entonces que la fiscal y la veridad fosate tiene a cargo
+
+349
+00:15:56,000 --> 00:15:59,000
+a jefe de custodia del presidente.
+
+350
+00:15:59,000 --> 00:16:03,000
+La Casio Pove deberá definir si lo imputa o no por un delito,
+
+351
+00:16:03,000 --> 00:16:04,000
+recordemos o inculado,
+
+352
+00:16:04,000 --> 00:16:09,000
+a la facilitación de información falsa,
+
+353
+00:16:09,000 --> 00:16:10,000
+en este caso de partidas,
+
+354
+00:16:11,000 --> 00:16:14,000
+en nacimientos para que ciudadanos rusos puedan obtener pasaportes
+
+355
+00:16:14,000 --> 00:16:16,000
+y recordemos que hay un caso del de Roman Carpón,
+
+356
+00:16:16,000 --> 00:16:18,000
+un ciudadanos rusos que le obtuvo de forma falsa
+
+357
+00:16:19,000 --> 00:16:21,000
+que se dio cuenta de estos productos de otros ciudadanos rubazos
+
+358
+00:16:21,000 --> 00:16:22,000
+pero también está involucrado,
+
+359
+00:16:22,000 --> 00:16:24,000
+porque son varias de las personas que están involucrados,
+
+360
+00:16:24,000 --> 00:16:26,000
+hay profesionales también que están involucrados
+
+361
+00:16:26,000 --> 00:16:30,000
+para facilitar información requerida administrativamente
+
+362
+00:16:30,000 --> 00:16:31,000
+para que ciudadanos rusos,
+
+363
+00:16:31,000 --> 00:16:34,000
+como les decía, que están requiriendo pasaportes
+
+364
+00:16:35,000 --> 00:16:37,000
+para poder irse por el conflicto Rusia o Crania,
+
+365
+00:16:37,000 --> 00:16:39,000
+bueno, lo buscan hacer de esta forma ilegal,
+
+366
+00:16:39,000 --> 00:16:41,000
+así que está la investigación que la fiscal
+
+367
+00:16:41,000 --> 00:16:43,000
+garela fosate y está llevando adelante.
+
+368
+00:16:44,000 --> 00:16:47,000
+Gracias, Diego. Seguimos desde estudios con otras informaciones
+
+369
+00:16:47,000 --> 00:16:51,000
+porque el periodista Gabriel Pereira denunció la existencia
+
+370
+00:16:51,000 --> 00:16:53,000
+de un sistema de vigilancia y seguimiento
+
+371
+00:16:54,000 --> 00:16:57,000
+a su persona a cargo de la Dirección Nacional
+
+372
+00:16:57,000 --> 00:16:58,000
+de Información e Inteligencia.
+
+373
+00:16:58,000 --> 00:17:01,000
+Si no sean ninguna acusación directa de tallo
+
+374
+00:17:01,000 --> 00:17:04,000
+algunas características del director nacional de Policía,
+
+375
+00:17:05,000 --> 00:17:09,000
+quién se mostró molesto por información que él publicó.
+
+376
+00:17:10,000 --> 00:17:14,000
+Me llamaron los dos fuentes que yo tengo hace muchos años
+
+377
+00:17:14,000 --> 00:17:16,000
+en las cual confío plenamente
+
+378
+00:17:16,000 --> 00:17:19,000
+para contarme esto de que jueves había vía una reunión
+
+379
+00:17:19,000 --> 00:17:21,000
+de Donado y Paraguay en la Cédia de Inteligencia,
+
+380
+00:17:21,000 --> 00:17:25,000
+donde el número 3, a la otra inida,
+
+381
+00:17:25,000 --> 00:17:31,000
+hay dicho un grupo de policías que tenían que ser vigilancia y seguimiento,
+
+382
+00:17:31,000 --> 00:17:37,000
+presuntamente por las informaciones policiales que yo daba de caso de corrupción,
+
+383
+00:17:37,000 --> 00:17:39,000
+supuestamente buscando quiénes eran mi fuente.
+
+384
+00:17:43,000 --> 00:17:47,000
+El formación que tengo es que esta gente, la gente de Inteligencia,
+
+385
+00:17:47,000 --> 00:17:51,000
+no actúo, no hay gente que suere actuar por módu propio,
+
+386
+00:17:52,000 --> 00:17:53,000
+sino que recibe en órdenes,
+
+387
+00:17:53,000 --> 00:17:55,000
+pero como dije, en el tweet que puse yo,
+
+388
+00:17:55,000 --> 00:18:00,000
+la verdad que por lo menos de las autoridades políticas del Ministerio de Interior,
+
+389
+00:18:00,000 --> 00:18:02,000
+no creo que estén atrás de esto.
+
+390
+00:18:02,000 --> 00:18:05,000
+Pereira realizó algunas puntualizaciones sobre quien ocupa el número 4
+
+391
+00:18:05,000 --> 00:18:07,000
+en el Ministerio de la Interior,
+
+392
+00:18:07,000 --> 00:18:09,000
+digo Fernández, Director Nacional de la Policía.
+
+393
+00:18:09,000 --> 00:18:12,000
+Si bien o hace una acusación directa por sus características,
+
+394
+00:18:12,000 --> 00:18:14,000
+podría presentar una sospecha.
+
+395
+00:18:14,000 --> 00:18:18,000
+El número 4 es un policía, es un hombre que trabajó en Inteligencia,
+
+396
+00:18:19,000 --> 00:18:22,000
+que estamos listos mucho por las informaciones que he publicado,
+
+397
+00:18:22,000 --> 00:18:26,000
+de hecho, en el caso del jefe de policía de salto,
+
+398
+00:18:26,000 --> 00:18:29,000
+la investigación sobre el manejo,
+
+399
+00:18:29,000 --> 00:18:31,000
+mal manejo de los vehículos oficiales,
+
+400
+00:18:31,000 --> 00:18:37,000
+la recallo en él es un hombre que tiene ingerencia directa sobre los servicios de Inteligencia,
+
+401
+00:18:37,000 --> 00:18:42,000
+es un hombre que el sindicato policial lo denunció por instaurar viejas prácticas,
+
+402
+00:18:42,000 --> 00:18:48,000
+es un hombre que puso el cuadro y nombró a una oficina de la inteligencia
+
+403
+00:18:48,000 --> 00:18:50,000
+con el nombre de Castiglio, ni torturador,
+
+404
+00:18:50,000 --> 00:18:53,000
+durante la época de la dictadura, yo hago simplemente eso,
+
+405
+00:18:53,000 --> 00:18:56,000
+separo a las autoridades políticas del Ministerio,
+
+406
+00:18:56,000 --> 00:18:59,000
+pero no estoy haciendo ninguna acusación.
+
+407
+00:18:59,000 --> 00:19:03,000
+El periodista dijo que claramente hay una nueva orientación en la policía,
+
+408
+00:19:03,000 --> 00:19:06,000
+luego de desvincular anteriores mandos que tuvieron 20 años en esos cargos,
+
+409
+00:19:06,000 --> 00:19:09,000
+y que muchos de los nuevos son de la vieja guardia.
+
+410
+00:19:09,000 --> 00:19:13,000
+En ese sentido puntualizó que en los servicios de inteligencia los controles son importantes,
+
+411
+00:19:14,000 --> 00:19:16,000
+Pereira expresó que no realizará una denuncia penal,
+
+412
+00:19:16,000 --> 00:19:19,000
+porque entiende que es un caso difícil de aclarar.
+
+413
+00:19:21,000 --> 00:19:23,000
+Bueno, el presidente de la asociación de la prensa de Uruguay,
+
+414
+00:19:23,000 --> 00:19:28,000
+de APU, Fabian Cardoso, aseguró que se está siguiendo con atención la denuncia presentada
+
+415
+00:19:28,000 --> 00:19:30,000
+por el periodista Gabriel Pereira.
+
+416
+00:19:30,000 --> 00:19:32,000
+Sí, denuncia que según Cardoso es de extrema gravedad.
+
+417
+00:19:34,000 --> 00:19:37,000
+Estas preintenciones monitorear esta situación,
+
+418
+00:19:37,000 --> 00:19:42,000
+obviamente, de acuerdo a lo que el periodista en basa su libertad de elegir,
+
+419
+00:19:42,000 --> 00:19:44,000
+más allá de la representación o no,
+
+420
+00:19:44,000 --> 00:19:47,000
+de formar parte de la organización,
+
+421
+00:19:47,000 --> 00:19:50,000
+las otras no se interesa que este tipo de temas
+
+422
+00:19:50,000 --> 00:19:53,000
+no queda en por simplemente una denuncia pública
+
+423
+00:19:53,000 --> 00:19:56,000
+que alguien puede hacer en un medio de comunicación.
+
+424
+00:19:56,000 --> 00:19:58,000
+Es de extrema gravedad.
+
+425
+00:19:58,000 --> 00:20:01,000
+Nosotros hemos dicho más una vez que lamentablemente,
+
+426
+00:20:01,000 --> 00:20:07,000
+hay algunas de estas cosas que son habituales que pasan en otros países de la región
+
+427
+00:20:07,000 --> 00:20:09,000
+antes no llegaban a Uruguay.
+
+428
+00:20:09,000 --> 00:20:12,000
+Pero lamentablemente parece que sí,
+
+429
+00:20:12,000 --> 00:20:15,000
+todo lo que es lo que ven con investigación a periodistas,
+
+430
+00:20:15,000 --> 00:20:17,000
+en este caso desde el propio estado,
+
+431
+00:20:18,000 --> 00:20:20,000
+anteriormente adivinco cuenta de otra situación lamentable,
+
+432
+00:20:21,000 --> 00:20:24,000
+que fue una amenaza a una periodista,
+
+433
+00:20:24,000 --> 00:20:27,000
+como deciría, techera, una colegra del departamento de Cervo Dario,
+
+434
+00:20:27,000 --> 00:20:31,000
+el Sís, lamentable ese episodio que no eran comunes en Uruguay
+
+435
+00:20:31,000 --> 00:20:35,000
+y que dan cuenta de que tenemos que activar al menos una lucha amarilla
+
+436
+00:20:35,000 --> 00:20:38,000
+en cuanto a la situación de la libertad de expresión en el país.
+
+437
+00:20:38,000 --> 00:20:40,000
+Si el Núah estamos en una nueva época,
+
+438
+00:20:40,000 --> 00:20:47,000
+con el deudas de 8 periodistas que están teniendo alto presiden en investigaciones,
+
+439
+00:20:47,000 --> 00:20:51,000
+en colocar temas que de repente antes no estaban en la agenda informativa,
+
+440
+00:20:51,000 --> 00:20:54,000
+y bueno, cuando eso pasa, obviamente,
+
+441
+00:20:54,000 --> 00:20:57,000
+a veces se produce en raciones de este tipo, por supuesto,
+
+442
+00:20:57,000 --> 00:21:02,000
+no compartibles para nada desde el poder político o desde alguien
+
+443
+00:21:02,000 --> 00:21:05,000
+que se siente tocado por algunas esas investigaciones.
+
+444
+00:21:07,000 --> 00:21:10,000
+Les contamos que esta hora está terminando una reunión
+
+445
+00:21:10,000 --> 00:21:13,000
+entre una delegación de la asociación de la prensa Uruguay,
+
+446
+00:21:13,000 --> 00:21:15,000
+justamente a Puy y el ministro del Interior,
+
+447
+00:21:15,000 --> 00:21:17,000
+Luis Alberto Jeber, cuando haya derivaciones las compartiremos,
+
+448
+00:21:17,000 --> 00:21:19,000
+y a propósito de este tema,
+
+449
+00:21:19,000 --> 00:21:22,000
+desde el frente amplio, se hizo un pedido de informes.
+
+450
+00:21:22,000 --> 00:21:26,000
+Sí, piden que se amplie información para esclarecer este hecho.
+
+451
+00:21:27,000 --> 00:21:30,000
+El pedido de informes con fecha de hoy dirigido a Beatriz Arquimón,
+
+452
+00:21:30,000 --> 00:21:32,000
+se centra en la información difundida hoy,
+
+453
+00:21:32,000 --> 00:21:35,000
+por Gabriel Pereira, Radio Sarandí, informando que funcionarios
+
+454
+00:21:35,000 --> 00:21:37,000
+de la dirección general de información e inteligencia
+
+455
+00:21:38,000 --> 00:21:41,000
+habrían recibido la orden de que se le hicieron una vigilancia y seguimiento.
+
+456
+00:21:41,000 --> 00:21:43,000
+En tal sentido, Pereira informó que la orden
+
+457
+00:21:43,000 --> 00:21:47,000
+habría partido del tercero al mando de la dirección general de información e inteligencia.
+
+458
+00:21:48,000 --> 00:21:49,000
+Ante la gravedad de lo denunciado,
+
+459
+00:21:49,000 --> 00:21:53,000
+los senadores del frente amplio solicitan la siguiente información,
+
+460
+00:21:53,000 --> 00:21:56,000
+que se identifique quienes el tercero al mando de la dirección general
+
+461
+00:21:56,000 --> 00:21:57,000
+de información e inteligencia,
+
+462
+00:21:57,000 --> 00:22:00,000
+así como todas las dependencias donde prestó servicios
+
+463
+00:22:00,000 --> 00:22:01,000
+desde su ingreso a la Policía Nacional,
+
+464
+00:22:02,000 --> 00:22:04,000
+incluyendo no solo unidad ejecutora,
+
+465
+00:22:04,000 --> 00:22:06,000
+sino también el correspondiente de departamento interno de la misma,
+
+466
+00:22:07,000 --> 00:22:09,000
+agregando copias de legajo del funcionario.
+
+467
+00:22:09,000 --> 00:22:12,000
+Informe de quién dio la orden al tercero al mando de la dirección general
+
+468
+00:22:12,000 --> 00:22:13,000
+de información e inteligencia,
+
+469
+00:22:13,000 --> 00:22:15,000
+de seguir al periodista Gabriel Pereira.
+
+470
+00:22:15,000 --> 00:22:19,000
+Informe de si se impartió por o estaba en en conocimiento de dicha orden
+
+471
+00:22:19,000 --> 00:22:21,000
+a algunos de los siguientes funcionarios,
+
+472
+00:22:21,000 --> 00:22:22,000
+el ministro del interior,
+
+473
+00:22:22,000 --> 00:22:24,000
+el subsecretario del Ministerio del Interior,
+
+474
+00:22:24,000 --> 00:22:27,000
+el director general de Secretaría del Ministerio del Interior
+
+475
+00:22:27,000 --> 00:22:29,000
+y el director de la Policía Nacional,
+
+476
+00:22:29,000 --> 00:22:32,000
+y además se pide un informe de si estaba en conocimiento de dicha orden,
+
+477
+00:22:32,000 --> 00:22:34,000
+el director general de información e inteligencia,
+
+478
+00:22:34,000 --> 00:22:36,000
+así como por su comando.
+
+479
+00:22:36,000 --> 00:22:39,000
+Por último, se agrega que en caso de desconocer alguna de las respuestas,
+
+480
+00:22:39,000 --> 00:22:41,000
+a las preguntas anteriores, se solicita,
+
+481
+00:22:41,000 --> 00:22:44,000
+si se expuso algún procedimiento disciplinario,
+
+482
+00:22:44,000 --> 00:22:47,000
+información de urgencia, investigación administrativo,
+
+483
+00:22:47,000 --> 00:22:50,000
+o sumario administrativo, identificando número expediente
+
+484
+00:22:50,000 --> 00:22:52,000
+y dependencia encargada de su instrucción.
+
+485
+00:22:52,000 --> 00:22:54,000
+También se pide que se informe la fiscalía
+
+486
+00:22:54,000 --> 00:22:56,000
+a la cual se puso en conocimiento de lo denunciado
+
+487
+00:22:56,000 --> 00:22:59,000
+públicamente por el periodista Gabriel Pereira.
+
+488
+00:23:01,000 --> 00:23:05,000
+Y el secretario general del sindicato de funcionarios policiales de Montevideo,
+
+489
+00:23:05,000 --> 00:23:06,000
+Ricardo González dijo,
+
+490
+00:23:06,000 --> 00:23:10,000
+AMVD noticias, que existe mucha preocupación por las denuncias
+
+491
+00:23:10,000 --> 00:23:12,000
+sobre escuchas telefónicas
+
+492
+00:23:12,000 --> 00:23:15,000
+y legales a dirigentes de la organización.
+
+493
+00:23:15,000 --> 00:23:17,000
+Y por este tema también le pidieron una reunión,
+
+494
+00:23:17,000 --> 00:23:20,000
+en este caso, en carácter urgente al ministro Gever.
+
+495
+00:23:21,000 --> 00:23:23,000
+La semana pasada,
+
+496
+00:23:24,000 --> 00:23:26,000
+recibimos por parte de compañeros de colegas
+
+497
+00:23:27,000 --> 00:23:29,000
+de que podía estar dando estas situaciones,
+
+498
+00:23:29,000 --> 00:23:33,000
+esta misma situación de tener los teléfonos interveridos
+
+499
+00:23:33,000 --> 00:23:36,000
+y todo esto es en dirigentes de sindicato,
+
+500
+00:23:36,000 --> 00:23:37,000
+y concretamente eso,
+
+501
+00:23:37,000 --> 00:23:42,000
+que dirigentes del sindicato tendríamos intervenido en nuestros teléfonos,
+
+502
+00:23:43,000 --> 00:23:48,000
+que nos preocupa y de ser así sería una situación gravísima,
+
+503
+00:23:48,000 --> 00:23:49,000
+es exarteiro,
+
+504
+00:23:49,000 --> 00:23:52,000
+es algo que grave.
+
+505
+00:23:52,000 --> 00:23:55,000
+Esto se hueva que en el día de hoy
+
+506
+00:23:55,000 --> 00:23:58,000
+le transmitiéramos al señor ministro del interior
+
+507
+00:23:58,000 --> 00:24:00,000
+el pedido de narguenión para poder dormir
+
+508
+00:24:00,000 --> 00:24:02,000
+unos y plantear esta situación.
+
+509
+00:24:02,000 --> 00:24:05,000
+También sepa un poco lo que es el mando político del Ministerio de Interior
+
+510
+00:24:05,000 --> 00:24:07,000
+y el mando gerar,
+
+511
+00:24:08,000 --> 00:24:11,000
+porque esto nos llega de que se estaría dando por parte del mando gerar,
+
+512
+00:24:11,000 --> 00:24:14,000
+que es un mando político del Ministerio de Interior,
+
+513
+00:24:14,000 --> 00:24:18,000
+por eso también un poco esperar a poder dormir unos con el ministro
+
+514
+00:24:19,000 --> 00:24:21,000
+para transmitir esta situación,
+
+515
+00:24:21,000 --> 00:24:24,000
+que la verdad que nos preocupa mucho,
+
+516
+00:24:24,000 --> 00:24:27,000
+y por ahora es eso,
+
+517
+00:24:27,000 --> 00:24:30,000
+que seguramente en el Correde la zora vamos a tener el día y la hora
+
+518
+00:24:31,000 --> 00:24:34,000
+que calculo que si no es hoy será mañana
+
+519
+00:24:34,000 --> 00:24:38,000
+y esperemos que a la verdad nos podemos unir para plantear esta institución.
+
+520
+00:24:39,000 --> 00:24:40,000
+Ahora agenda educativa,
+
+521
+00:24:40,000 --> 00:24:43,000
+porque la asociación de profesores de literatura del Uruguay
+
+522
+00:24:43,000 --> 00:24:46,000
+manifestó su preocupación tras los recientes anuncios de cambio,
+
+523
+00:24:46,000 --> 00:24:49,000
+justamente en la educación hechos por las autoridades del A&EP.
+
+524
+00:24:49,000 --> 00:24:53,000
+La preocupación central de los profesores está basada
+
+525
+00:24:53,000 --> 00:24:55,000
+en la formación docente,
+
+526
+00:24:55,000 --> 00:25:00,000
+ya que tal como está previsto en la reforma perderían 10 cursos en cuatro años.
+
+527
+00:25:00,000 --> 00:25:05,000
+Hasta el viernes nos abriamos y efectivamente en el primer ciclo,
+
+528
+00:25:05,000 --> 00:25:08,000
+bueno, ahora en este tercer trayecto
+
+529
+00:25:08,000 --> 00:25:10,000
+y vamos a tener presencia al profesores de literatura.
+
+530
+00:25:10,000 --> 00:25:14,000
+Y en realidad, cambia las denominaciones artes cuando es fácil en literatura.
+
+531
+00:25:14,000 --> 00:25:17,000
+Allí no habría más oro problema en realidad en el área de la literatura
+
+532
+00:25:17,000 --> 00:25:20,000
+y otras asignaturas como físicas que sí reducen,
+
+533
+00:25:20,000 --> 00:25:22,000
+notablemente en la cargo de Arias,
+
+534
+00:25:22,000 --> 00:25:24,000
+es una gran preocupación.
+
+535
+00:25:24,000 --> 00:25:30,000
+Pero la preocupación central para nosotros actualmente está en la formación
+
+536
+00:25:30,000 --> 00:25:33,000
+docente, no tuvo participación de ningún tipo,
+
+537
+00:25:33,000 --> 00:25:36,000
+solamente para elaborar ramadas.
+
+538
+00:25:36,000 --> 00:25:41,000
+Y esas maldias en realidad implican un recorte notable en los contenidos.
+
+539
+00:25:41,000 --> 00:25:44,000
+Hay como una contradicción entre la calidad de la formación
+
+540
+00:25:44,000 --> 00:25:49,000
+que se pretende ofrecer a los estudiantes de formación docente
+
+541
+00:25:49,000 --> 00:25:52,000
+y por durado el recorte en los contenidos.
+
+542
+00:25:52,000 --> 00:25:55,000
+No se los actualmente en la carrera de literatura en los cuatro años,
+
+543
+00:25:55,000 --> 00:25:59,000
+tenemos 22 asignaturas, 22 cursos anuales.
+
+544
+00:25:59,000 --> 00:26:06,000
+Y con esta reforma se plantea una recorte muy grande de esos contenidos.
+
+545
+00:26:07,000 --> 00:26:11,000
+Pasaríamos a tener 10 asignaturas semestrales y 12 anuales,
+
+546
+00:26:11,000 --> 00:26:14,000
+por lo cual perdemos 10 asignaturas, no?
+
+547
+00:26:14,000 --> 00:26:17,000
+10 cursos en esos cuatro años.
+
+548
+00:26:19,000 --> 00:26:23,000
+Y un grupo de docentes de física y química de secundaria enviaron una carta
+
+549
+00:26:23,000 --> 00:26:25,000
+al presidente del coisén de la NEP,
+
+550
+00:26:25,000 --> 00:26:29,000
+Proversilo, por la carga horaria asignada para las ciencias físicas,
+
+551
+00:26:29,000 --> 00:26:31,000
+en séptimo y octavogrado.
+
+552
+00:26:31,000 --> 00:26:34,000
+Monika Franco, representante de este grupo de docentes,
+
+553
+00:26:34,000 --> 00:26:37,000
+este colectivo manifestó su preocupación por lo que se define
+
+554
+00:26:37,000 --> 00:26:39,000
+como pérdida de horas docentes justamente,
+
+555
+00:26:39,000 --> 00:26:44,000
+y también advirtió que se están perdiendo espacios de la disciplina científica
+
+556
+00:26:44,000 --> 00:26:46,000
+para ser sustituidos por talleres.
+
+557
+00:26:47,000 --> 00:26:51,000
+Y la profesora de química Monika Franco explicó que el grupo que representa
+
+558
+00:26:51,000 --> 00:26:54,000
+a este docente es que no están agremiados,
+
+559
+00:26:54,000 --> 00:26:57,000
+pero que se autocomocaron ante la sorpresa que les causaron los anuncios
+
+560
+00:26:57,000 --> 00:27:00,000
+realizados por las autoridades de la educación,
+
+561
+00:27:00,000 --> 00:27:02,000
+respecto a la reforma de la currícula.
+
+562
+00:27:02,000 --> 00:27:07,000
+Lo que nosotros solicitamos es rever esa situación hoy
+
+563
+00:27:07,000 --> 00:27:09,000
+para que el público lo pueda entender.
+
+564
+00:27:09,000 --> 00:27:13,000
+Hay cursos de ciencias físicas en primero y en segundo,
+
+565
+00:27:13,000 --> 00:27:18,000
+y pasaríamos a tener un taller optativo en séptimo
+
+566
+00:27:18,000 --> 00:27:26,000
+que en realidad la malla expresa que complementa los saberes
+
+567
+00:27:26,000 --> 00:27:28,000
+y los conocimientos de las asignaturas,
+
+568
+00:27:28,000 --> 00:27:30,000
+pero no hay cursos de las asignaturas.
+
+569
+00:27:30,000 --> 00:27:34,000
+Entonces a nosotros eso nos preocupa mucho por tres cuestiones.
+
+570
+00:27:34,000 --> 00:27:39,000
+La alfabetización científica es indispensable para los individuos
+
+571
+00:27:39,000 --> 00:27:42,000
+para tomar decisiones cotidianas.
+
+572
+00:27:42,000 --> 00:27:47,000
+El saber científico además contribuye a la formación como ciudadanos
+
+573
+00:27:47,000 --> 00:27:53,000
+para involucrarse en discusiones públicas sobre temas propios de las ciencias.
+
+574
+00:27:53,000 --> 00:27:57,000
+Y un tercer factore es que forma parte de la cultura de los individuos.
+
+575
+00:27:57,000 --> 00:28:03,000
+Entonces creemos que estamos perdiendo espacios propios de la disciplina científicas,
+
+576
+00:28:03,000 --> 00:28:06,000
+sustituyendo los portalleres que además son semestrales,
+
+577
+00:28:06,000 --> 00:28:11,000
+lo que parecería traer, si bien no surge claramente el documento,
+
+578
+00:28:11,000 --> 00:28:15,000
+una reducción de las horas docentes también, cosa que preocupa.
+
+579
+00:28:16,000 --> 00:28:21,000
+Bueno, y para conocer algo más de este plan de educación básica integrada
+
+580
+00:28:21,000 --> 00:28:24,000
+que se conoció hace algunas horas, hace pocos días,
+
+581
+00:28:24,000 --> 00:28:27,000
+en realidad que forma parte de esta reforma educativa
+
+582
+00:28:27,000 --> 00:28:29,000
+es que tenemos una entrevista central que llevará adelante
+
+583
+00:28:29,000 --> 00:28:31,000
+nuestro compañero Martín Rodríguez.
+
+584
+00:28:31,000 --> 00:28:33,000
+Nos venimos a rinconder la entrevista de hoy,
+
+585
+00:28:33,000 --> 00:28:35,000
+porque hablaremos con Julián Mazzoni,
+
+586
+00:28:35,000 --> 00:28:39,000
+que es representante docente, uno de los dos consejeros docentes en representación.
+
+587
+00:28:39,000 --> 00:28:42,000
+Dele hace los docentes en el Consejo Directivo Central,
+
+588
+00:28:42,000 --> 00:28:44,000
+el codicent de la ANEP.
+
+589
+00:28:44,000 --> 00:28:46,000
+Mazzoni, bienvenido, buenas noches.
+
+590
+00:28:46,000 --> 00:28:47,000
+Un gusto estar con ustedes.
+
+591
+00:28:47,000 --> 00:28:49,000
+Gracias por la invitación.
+
+592
+00:28:49,000 --> 00:28:53,000
+¿Por qué usted y dais iglesias, que es la otra representante docente,
+
+593
+00:28:53,000 --> 00:28:57,000
+en la sesión del codicent de la ANEP,
+
+594
+00:28:57,000 --> 00:29:00,000
+que aprobó este plan de educación básica integrada
+
+595
+00:29:00,000 --> 00:29:03,000
+del que veníamos hablando en el MMI de Noticias de hoy,
+
+596
+00:29:03,000 --> 00:29:05,000
+se abstuyeron?
+
+597
+00:29:05,000 --> 00:29:08,000
+Bueno, vamos a indicar que en realidad nosotros,
+
+598
+00:29:08,000 --> 00:29:12,000
+desde que se votó en el seno del Consejo Directivo Central,
+
+599
+00:29:12,000 --> 00:29:13,000
+el Marco Curricular Nacional,
+
+600
+00:29:13,000 --> 00:29:18,000
+que es el enfoque teórico de toda esta transformación,
+
+601
+00:29:18,000 --> 00:29:20,000
+nosotros votamos en contra ahí,
+
+602
+00:29:20,000 --> 00:29:21,000
+y de ahí en adelante,
+
+603
+00:29:21,000 --> 00:29:25,000
+optamos por de alguna manera decirle al resto de lo,
+
+604
+00:29:25,000 --> 00:29:28,000
+a la mayoría del codicent,
+
+605
+00:29:29,000 --> 00:29:31,000
+que nosotros nos responsabilizamos políticamente
+
+606
+00:29:31,000 --> 00:29:33,000
+por la ejecución de la transformación,
+
+607
+00:29:33,000 --> 00:29:35,000
+y por lo tanto, no hayamos a tener.
+
+608
+00:29:35,000 --> 00:29:39,000
+Yo te quiero decir que hemos recibido algunas críticas
+
+609
+00:29:39,000 --> 00:29:41,000
+de nuestros votantes de los compañeros que representamos.
+
+610
+00:29:41,000 --> 00:29:43,000
+O sea, de docentes,
+
+611
+00:29:43,000 --> 00:29:45,000
+sindicalizados y sindicalizadas.
+
+612
+00:29:45,000 --> 00:29:48,000
+Y de algunos que no lo son tampoco, nosotros representamos
+
+613
+00:29:48,000 --> 00:29:50,000
+en este momento a todos.
+
+614
+00:29:50,000 --> 00:29:52,000
+Pero haremos probablemente...
+
+615
+00:29:52,000 --> 00:29:55,000
+A tu te mojiré ese afloj, elegidos por listas vinculadas...
+
+616
+00:29:55,000 --> 00:29:56,000
+Sí, por supuesto que mentira.
+
+617
+00:29:56,000 --> 00:29:57,000
+Sí, sí.
+
+618
+00:29:57,000 --> 00:30:00,000
+Esto lo vamos a tener que reconsiderar con la compañera.
+
+619
+00:30:00,000 --> 00:30:02,000
+Pero la política no es traer,
+
+620
+00:30:02,000 --> 00:30:05,000
+bueno, la instrumentación va por cuenta de ustedes,
+
+621
+00:30:05,000 --> 00:30:08,000
+nosotros no tenemos responsabilidad política en esto,
+
+622
+00:30:08,000 --> 00:30:10,000
+y esa fue la decisión de atención.
+
+623
+00:30:10,000 --> 00:30:14,000
+No tiene responsabilidad política, pero sí como docentes,
+
+624
+00:30:14,000 --> 00:30:17,000
+tienen seguramente opinión, conocimiento,
+
+625
+00:30:17,000 --> 00:30:19,000
+y una trayectoria de muchos años.
+
+626
+00:30:19,000 --> 00:30:19,000
+Bueno, sí.
+
+627
+00:30:19,000 --> 00:30:21,000
+¿Y por qué no volcarezco en una posición
+
+628
+00:30:21,000 --> 00:30:23,000
+sea favorable o negativa?
+
+629
+00:30:23,000 --> 00:30:25,000
+Bueno, era una decisión que ya veníamos.
+
+630
+00:30:25,000 --> 00:30:27,000
+Habíamos tomado entre los dos de hace un tiempo.
+
+631
+00:30:27,000 --> 00:30:29,000
+Pero insisto, sí,
+
+632
+00:30:29,000 --> 00:30:33,000
+si es necesario modificar esa posición, lo haremos.
+
+633
+00:30:33,000 --> 00:30:35,000
+Pero yo lo creo que no es el esencial.
+
+634
+00:30:35,000 --> 00:30:36,000
+En este caso, lo esencial,
+
+635
+00:30:36,000 --> 00:30:39,000
+que a nosotros no aparece mala la propuesta,
+
+636
+00:30:39,000 --> 00:30:40,000
+y por lo tanto,
+
+637
+00:30:40,000 --> 00:30:45,000
+hemos señalado una trascritica que ya la veníamos haciendo.
+
+638
+00:30:45,000 --> 00:30:51,000
+Yendo a lo esencial de este plan de educación básica o básico integrada.
+
+639
+00:30:51,000 --> 00:30:56,000
+¿Qué señala a usted como lo más importante?
+
+640
+00:30:56,000 --> 00:30:59,000
+Bueno, yo como lo más importante señalaría
+
+641
+00:30:59,000 --> 00:31:03,000
+que acá lo que hay es no hay novedades importantes,
+
+642
+00:31:03,000 --> 00:31:07,000
+en realidad lo que se hace es tomar la reformulación 2006
+
+643
+00:31:07,000 --> 00:31:15,000
+de ciclo básico de secundaria y el CVT de la UTU.
+
+644
+00:31:15,000 --> 00:31:16,000
+¿Qué es ese CVT, perdón?
+
+645
+00:31:17,000 --> 00:31:21,000
+Ciclo básico, técnolo de la UTU está bien.
+
+646
+00:31:21,000 --> 00:31:22,000
+Hay que aclararnos a través de este,
+
+647
+00:31:22,000 --> 00:31:27,000
+tenemos un lenguaje interno que con esas dos cosas,
+
+648
+00:31:27,000 --> 00:31:32,000
+como base se es la avora, la propuesta,
+
+649
+00:31:32,000 --> 00:31:35,000
+agregándole algunos elementos que aparentemente pueden ser novedosos,
+
+650
+00:31:35,000 --> 00:31:39,000
+que tienen que ver con agrupamientos de asignaturas y demás.
+
+651
+00:31:39,000 --> 00:31:43,000
+Y además con todos estos problemas que ustedes estaban pasando,
+
+652
+00:31:43,000 --> 00:31:45,000
+yo creo que en estos días las diferentes asociaciones,
+
+653
+00:31:45,000 --> 00:31:48,000
+ahora hablamos en profesor de literatura,
+
+654
+00:31:48,000 --> 00:31:53,000
+hemos recibido posiciones de docente de química, de física,
+
+655
+00:31:53,000 --> 00:31:56,000
+de dibujo, de educación musical,
+
+656
+00:31:56,000 --> 00:31:58,000
+en realidad hay una gran preocupación
+
+657
+00:31:58,000 --> 00:32:00,000
+que, por suerte, se están manifestando
+
+658
+00:32:00,000 --> 00:32:04,000
+y que llegan a alimentar nuestras posiciones.
+
+659
+00:32:04,000 --> 00:32:08,000
+Yo diría que hubo mucha alaraca entorno a esto,
+
+660
+00:32:08,000 --> 00:32:11,000
+como que iba a ser una propuesta radicalmente transformadora,
+
+661
+00:32:12,000 --> 00:32:15,000
+y lo que hayan realidad es una reducción de contenidos
+
+662
+00:32:15,000 --> 00:32:20,000
+y demás que seguiremos trabajando para que no se profundice.
+
+663
+00:32:20,000 --> 00:32:23,000
+Hoy lo verso y lo ha estuvo en estos estudios por la mañana,
+
+664
+00:32:23,000 --> 00:32:29,000
+en Ciudad Viva, y dijo que los cambios que digamos incluyen
+
+665
+00:32:29,000 --> 00:32:33,000
+a las asignaturas no van a generar pérdidas de horas docentes,
+
+666
+00:32:33,000 --> 00:32:37,000
+le planteó este tema porque de alguna manera usted lo mencionó,
+
+667
+00:32:37,000 --> 00:32:40,000
+que, por ejemplo, que ya soy danas asignaturas en el sentido,
+
+668
+00:32:41,000 --> 00:32:44,000
+como se venía dando, en los talleres seguirán teniendo esas horas.
+
+669
+00:32:44,000 --> 00:32:45,000
+¿Usted qué piensa?
+
+670
+00:32:45,000 --> 00:32:49,000
+Bueno, no es lo mismo en un taller donde se trabaja de otra manera,
+
+671
+00:32:49,000 --> 00:32:53,000
+que en una asignatura que implica una planificación,
+
+672
+00:32:53,000 --> 00:32:57,000
+una epistemología de tránsito y demás que no van a estar.
+
+673
+00:32:57,000 --> 00:32:59,000
+Y en un taller cual sería la diferencia para que lo entendamos,
+
+674
+00:32:59,000 --> 00:33:01,000
+quienes no tenemos formaciones de una asignación.
+
+675
+00:33:01,000 --> 00:33:03,000
+En un taller lo que se plantea es algún problema,
+
+676
+00:33:03,000 --> 00:33:08,000
+se busca una solución basándose en las diferentes asignaturas,
+
+677
+00:33:08,000 --> 00:33:10,000
+pero no la asignatura, en realidad,
+
+678
+00:33:10,000 --> 00:33:14,000
+lo que es es una organización determinada de contenido
+
+679
+00:33:14,000 --> 00:33:18,000
+para desde el punto de vista didáctico llevarlo al estudiante
+
+680
+00:33:18,000 --> 00:33:20,000
+para que lo comprenda.
+
+681
+00:33:20,000 --> 00:33:25,000
+Es mucho más profundo, es mucho más exigente para el docente,
+
+682
+00:33:25,000 --> 00:33:26,000
+y yo creo que esto lo que más preocupa,
+
+683
+00:33:26,000 --> 00:33:31,000
+lo docenten necesitamos de alguna manera tener esa posibilidad
+
+684
+00:33:31,000 --> 00:33:33,000
+para que los estudiantes aprendan mejor.
+
+685
+00:33:33,000 --> 00:33:36,000
+Yo creo que esto va ir en detrimento de los aprendizaje,
+
+686
+00:33:36,000 --> 00:33:37,000
+y no favor.
+
+687
+00:33:37,000 --> 00:33:40,000
+Este plan de educación básica integrada,
+
+688
+00:33:40,000 --> 00:33:42,000
+según lo han desarrollado,
+
+689
+00:33:42,000 --> 00:33:45,000
+han explicado las autoridades, comienzan a los tres años,
+
+690
+00:33:45,000 --> 00:33:48,000
+en educación inicial, llega hasta los 15,
+
+691
+00:33:48,000 --> 00:33:51,000
+pero los 15 ya no coincidirán con tercero del ISEO,
+
+692
+00:33:51,000 --> 00:33:53,000
+sino con noveno grado,
+
+693
+00:33:53,000 --> 00:33:55,000
+porque lo que hoy son primero, segundo y tercero,
+
+694
+00:33:55,000 --> 00:33:56,000
+es la educación media,
+
+695
+00:33:56,000 --> 00:33:58,000
+sea en Liseo, Soenutu,
+
+696
+00:33:58,000 --> 00:34:00,000
+pasan a ser séptimo, octavo y noveno.
+
+697
+00:34:00,000 --> 00:34:04,000
+Robert Sillo ha dicho que con esto se busca ganar en coordinación
+
+698
+00:34:04,000 --> 00:34:06,000
+y superar el problema de la fragmentación
+
+699
+00:34:06,000 --> 00:34:09,000
+que según dicen las autoridades van contra del rendimiento
+
+700
+00:34:09,000 --> 00:34:11,000
+y de los aprendizajes.
+
+701
+00:34:11,000 --> 00:34:12,000
+¿Qué piensa respecto?
+
+702
+00:34:12,000 --> 00:34:16,000
+Yo pienso al respecto que una de las críticas que han hecho
+
+703
+00:34:16,000 --> 00:34:18,000
+desde la mayoría del codicen,
+
+704
+00:34:18,000 --> 00:34:23,000
+que es el pasaje de la primaria a la educación media
+
+705
+00:34:23,000 --> 00:34:27,000
+y la incorporación de un montón de docentes
+
+706
+00:34:27,000 --> 00:34:31,000
+cuando el estudiante viene acostumbrado a una maestra,
+
+707
+00:34:31,000 --> 00:34:34,000
+a un maestro, esto no va a cambiar,
+
+708
+00:34:34,000 --> 00:34:36,000
+no lo cambia y por lo tanto,
+
+709
+00:34:36,000 --> 00:34:38,000
+todas las argumentaciones que movistas están cayendo.
+
+710
+00:34:38,000 --> 00:34:40,000
+¿Y por qué no lo va a cambiar?
+
+711
+00:34:40,000 --> 00:34:41,000
+Y no lo va a cambiar,
+
+712
+00:34:41,000 --> 00:34:44,000
+porque se mantiene la estructura sin naturista
+
+713
+00:34:44,000 --> 00:34:47,000
+y van a tener 10, 12 o más.
+
+714
+00:34:47,000 --> 00:34:48,000
+Se ha hablado de que en sexto de escuela
+
+715
+00:34:48,000 --> 00:34:50,000
+podría haber más rotación de docentes
+
+716
+00:34:51,000 --> 00:34:52,000
+como para preparar esa transición
+
+717
+00:34:52,000 --> 00:34:53,000
+y no hay nada que usted se refiere.
+
+718
+00:34:53,000 --> 00:34:57,000
+Pero hay algunas experiencias en ese sentido,
+
+719
+00:34:57,000 --> 00:35:01,000
+pero no es fundamental en aquí lo que sigue siendo claro,
+
+720
+00:35:01,000 --> 00:35:07,000
+es que cuando el joven sin ingresa la adolescencia
+
+721
+00:35:07,000 --> 00:35:12,000
+de la infancia, la adolescencia necesita una forma diferente
+
+722
+00:35:12,000 --> 00:35:15,000
+de ser atendido del punto de vista pedagógico
+
+723
+00:35:15,000 --> 00:35:19,000
+y eso es lo que en la tradición nacional está y va a seguir estando.
+
+724
+00:35:19,000 --> 00:35:22,000
+Maestro, para el cierre de la entrevista a dos asuntos,
+
+725
+00:35:22,000 --> 00:35:25,000
+no se eliminan este plan la repetición,
+
+726
+00:35:25,000 --> 00:35:29,000
+pero las autoridades han planteado que buscan que termina siendo
+
+727
+00:35:29,000 --> 00:35:33,000
+así como el último recurso a través de otros mecanismos
+
+728
+00:35:33,000 --> 00:35:35,000
+que permitan, repente, respaldar
+
+729
+00:35:35,000 --> 00:35:37,000
+durante la trayectoria educativa aquí en tu voz y finta.
+
+730
+00:35:37,000 --> 00:35:39,000
+Bueno, se estaba pasando.
+
+731
+00:35:39,000 --> 00:35:42,000
+Y ahora podrá hacer un poco más de énfasis, pero digo,
+
+732
+00:35:42,000 --> 00:35:45,000
+no sabemos porque estamos esperando el reglamento de evaluación
+
+733
+00:35:45,000 --> 00:35:48,000
+y pasa que de grado que está elaborado,
+
+734
+00:35:48,000 --> 00:35:52,000
+porque se está elaborando por un conjunto de inspectores
+
+735
+00:35:52,000 --> 00:35:58,000
+que con un documento básico aprobó también por mayoría
+
+736
+00:35:58,000 --> 00:36:03,000
+el Consejo Direktivo Central se va a presentar en los próximos días,
+
+737
+00:36:03,000 --> 00:36:06,000
+lo que llamamos el reglamento de evaluación y pasa que de grado
+
+738
+00:36:06,000 --> 00:36:10,000
+veremos que no vea de extraña ahí y también recordemos
+
+739
+00:36:10,000 --> 00:36:12,000
+que estamos esperando los programas,
+
+740
+00:36:12,000 --> 00:36:15,000
+porque por ahora se definieron las asignaturas,
+
+741
+00:36:15,000 --> 00:36:20,000
+pero los contenidos de las asignaturas todavía no se han presentado.
+
+742
+00:36:20,000 --> 00:36:24,000
+Y recordemos que además a todo esto hay que agregarle
+
+743
+00:36:24,000 --> 00:36:29,000
+que esto debe ser sometido por la ley general de educación
+
+744
+00:36:29,000 --> 00:36:31,000
+a el dictamen de las asambleas técnicos docentes.
+
+745
+00:36:32,000 --> 00:36:36,000
+Así que todavía hay un proceso relativamente largo
+
+746
+00:36:36,000 --> 00:36:39,000
+que va a dificultar, inclusive, la elección de horas y demás.
+
+747
+00:36:40,000 --> 00:36:41,000
+Por lo tanto, hay un montón de insactudumbres
+
+748
+00:36:41,000 --> 00:36:44,000
+que todavía no se han despejado
+
+749
+00:36:44,000 --> 00:36:48,000
+y que estaremos viendo en los próximos días como va.
+
+750
+00:36:48,000 --> 00:36:52,000
+Pero yo creo que además todo esto que plantean
+
+751
+00:36:52,000 --> 00:36:55,000
+que tú estaba pasando el canal,
+
+752
+00:36:55,000 --> 00:36:58,000
+esto es objeto de negociación colectiva
+
+753
+00:36:58,000 --> 00:37:01,000
+porque modifica las condiciones de trabajo
+
+754
+00:37:01,000 --> 00:37:04,000
+y, por lo tanto, también es necesario
+
+755
+00:37:04,000 --> 00:37:08,000
+que entre el coordinador de asignación y el codicent
+
+756
+00:37:08,000 --> 00:37:09,000
+haya instancia de negociación
+
+757
+00:37:09,000 --> 00:37:13,000
+y también entre bipartitas, entre los sindicatos
+
+758
+00:37:13,000 --> 00:37:14,000
+y las direcciones generales.
+
+759
+00:37:14,000 --> 00:37:18,000
+Así que todavía hay mucha cosa por conversar
+
+760
+00:37:18,000 --> 00:37:20,000
+y puede haber modificaciones.
+
+761
+00:37:20,000 --> 00:37:23,000
+Porque recordemos que esto que se aprobó el otro día
+
+762
+00:37:23,000 --> 00:37:25,000
+es por ahora preliminar.
+
+763
+00:37:25,000 --> 00:37:27,000
+Julio, una son y gracias por estos minutos, en TV Ciudad.
+
+764
+00:37:27,000 --> 00:37:29,000
+Muchas gracias a ustedes.
+
+765
+00:37:29,000 --> 00:37:31,000
+Y seguimos haciendo a Mevedé Noticias Edición Central
+
+766
+00:37:31,000 --> 00:37:32,000
+con Natalia Noves.
+
+767
+00:37:32,000 --> 00:37:34,000
+Y seguimos hablando de educación,
+
+768
+00:37:34,000 --> 00:37:36,000
+pero en este caso, enseñar esa terciaria
+
+769
+00:37:36,000 --> 00:37:38,000
+porque en el marco de la discusión parlamentaria
+
+770
+00:37:38,000 --> 00:37:40,000
+de la rendición de cuentas la intergrimial,
+
+771
+00:37:40,000 --> 00:37:43,000
+universitaria anunció una serie de movilizaciones
+
+772
+00:37:43,000 --> 00:37:47,000
+en reclamo de mayor presupuesto para la principal casa de estudios.
+
+773
+00:37:47,000 --> 00:37:50,000
+En esta semana están confirmadas las ocupaciones de las facultades
+
+774
+00:37:50,000 --> 00:37:53,000
+de psicología, información y comunicación,
+
+775
+00:37:53,000 --> 00:37:55,000
+ciencia económica, además de Liséf
+
+776
+00:37:55,000 --> 00:37:58,000
+y de la CEDE mal donado del Cure.
+
+777
+00:37:59,000 --> 00:38:03,000
+El Consejo Federal ha ampliado de Adur del 19 de septiembre
+
+778
+00:38:03,000 --> 00:38:05,000
+definió monitorear la negociación colectiva
+
+779
+00:38:05,000 --> 00:38:07,000
+que denuncian sigue estancada
+
+780
+00:38:07,000 --> 00:38:10,000
+y que fue suspendida de manera unilateral por el gobierno.
+
+781
+00:38:10,000 --> 00:38:13,000
+Adur señala que de aprobarse esta rendición de cuentas
+
+782
+00:38:13,000 --> 00:38:16,000
+la universidad de la República llegaría a 2025
+
+783
+00:38:16,000 --> 00:38:19,000
+habiendo perdido un 7,6% de su presupuesto global
+
+784
+00:38:19,000 --> 00:38:22,000
+y con una pérdida de salarios consolidada.
+
+785
+00:38:22,000 --> 00:38:25,000
+Proyectos de desarrollo académico imposibilitados
+
+786
+00:38:25,000 --> 00:38:27,000
+vequas estudiantiles de financiadas
+
+787
+00:38:27,000 --> 00:38:29,000
+y una relación entre cantidades de estudiantes
+
+788
+00:38:29,000 --> 00:38:31,000
+y horas docentes deterioradas.
+
+789
+00:38:31,000 --> 00:38:33,000
+Los peores números en 10 años de enunciador,
+
+790
+00:38:33,000 --> 00:38:35,000
+bajando desde 1,8 horas,
+
+791
+00:38:35,000 --> 00:38:41,000
+en el semana de la semana, es docente por estudiante en 2012,
+
+792
+00:38:41,000 --> 00:38:43,000
+a 1,52 de la proyección para 2024.
+
+793
+00:38:43,000 --> 00:38:47,000
+A esto se suma al refinanciamiento de los sistemas científicos
+
+794
+00:38:47,000 --> 00:38:49,000
+y cultural recortes en la educación pública
+
+795
+00:38:49,000 --> 00:38:52,000
+persecución sindical y reformas incontrultas tanto en un tech
+
+796
+00:38:52,000 --> 00:38:55,000
+como en Anep, incluyendo las áreas de formación en educación.
+
+797
+00:38:55,000 --> 00:38:57,000
+Adur alerta sobre un debilitamiento
+
+798
+00:38:57,000 --> 00:39:00,000
+presupuestal e institucional de la educación pública
+
+799
+00:39:00,000 --> 00:39:03,000
+y anunció que en los próximos días resolverá profundizar
+
+800
+00:39:03,000 --> 00:39:06,000
+las vacunaciones de más centros universitarios.
+
+801
+00:39:06,000 --> 00:39:08,000
+Este martes realizan una conferencia de prensas
+
+802
+00:39:08,000 --> 00:39:11,000
+desde la ocupación del ICF de Parque Valle.
+
+803
+00:39:12,000 --> 00:39:14,000
+El presidente de Godiz en Robert Silva
+
+804
+00:39:14,000 --> 00:39:15,000
+reconoció que se cambió el criterio
+
+805
+00:39:16,000 --> 00:39:19,000
+con respecto a cómo manejar las ocupaciones estudiantiles.
+
+806
+00:39:19,000 --> 00:39:21,000
+Sí, Silva dijo que se llegó a la conclusión
+
+807
+00:39:21,000 --> 00:39:23,000
+de que el decreto del año 2020
+
+808
+00:39:23,000 --> 00:39:25,000
+que se venía aplicando no rige,
+
+809
+00:39:25,000 --> 00:39:27,000
+porque refiere a los trabajadores,
+
+810
+00:39:27,000 --> 00:39:30,000
+pero reafirmo que el centro educativo no se entrega.
+
+811
+00:39:30,000 --> 00:39:33,000
+Hemos llegado a la conclusión que claramente
+
+812
+00:39:33,000 --> 00:39:36,000
+el decreto del año 2020 no rige,
+
+813
+00:39:36,000 --> 00:39:39,000
+porque refiere al mundo del trabajo, a los trabajadores,
+
+814
+00:39:39,000 --> 00:39:41,000
+entonces para el caso de estudiantes no rige.
+
+815
+00:39:41,000 --> 00:39:46,000
+Y a partir de la autonomía que el Anep tiene como enteautónomo,
+
+816
+00:39:46,000 --> 00:39:48,000
+establece sus estatutos y sus reglamentos,
+
+817
+00:39:48,000 --> 00:39:50,000
+los cuales son de aplicación.
+
+818
+00:39:50,000 --> 00:39:54,000
+Y el proceder de secundaria no ha sido, digamos,
+
+819
+00:39:54,000 --> 00:39:56,000
+prohibir la ocupación.
+
+820
+00:39:56,000 --> 00:39:58,000
+Lo que ha sido en los secundarios,
+
+821
+00:39:58,000 --> 00:40:01,000
+es decir, nosotros no vamos a entregar más los centros.
+
+822
+00:40:01,000 --> 00:40:04,000
+Y por lo tanto, los estudiantes que quieran manifestar
+
+823
+00:40:04,000 --> 00:40:07,000
+y hacer sentir su opinión lo pueden hacer perfectamente,
+
+824
+00:40:07,000 --> 00:40:11,000
+la protesta en una República tiene que estar garantizada
+
+825
+00:40:11,000 --> 00:40:12,000
+y lo está.
+
+826
+00:40:12,000 --> 00:40:14,000
+Lo que los estudiantes no pueden hacer
+
+827
+00:40:14,000 --> 00:40:16,000
+es cortar el derecho de otros estudiantes,
+
+828
+00:40:16,000 --> 00:40:20,000
+de la enorme mayoría que quieren estudiar,
+
+829
+00:40:20,000 --> 00:40:23,000
+no puede cortar el derecho de los docentes y los trabajadores
+
+830
+00:40:23,000 --> 00:40:26,000
+que quieren ingresar a desarrollar sus clases y sus actividades.
+
+831
+00:40:26,000 --> 00:40:30,000
+Entonces, la protesta está, el centro educativo no se entrega
+
+832
+00:40:30,000 --> 00:40:33,000
+y los estudiantes que quieren protestar protestan,
+
+833
+00:40:33,000 --> 00:40:35,000
+los que quieren ingresar a clase ingresan,
+
+834
+00:40:35,000 --> 00:40:37,000
+los docentes que quieren ingresar ingresan.
+
+835
+00:40:38,000 --> 00:40:40,000
+Eso es el criterio que ha tomado secundaria,
+
+836
+00:40:40,000 --> 00:40:42,000
+que es un cambio y es cierto.
+
+837
+00:40:44,000 --> 00:40:46,000
+Y ahora es tiempo de informe.
+
+838
+00:40:46,000 --> 00:40:50,000
+Vamos a hablar de anticoncepción con Julieta Núñe Estomas.
+
+839
+00:40:50,000 --> 00:40:53,000
+Así es, compañeros, porque hoy es el día mundial
+
+840
+00:40:53,000 --> 00:40:57,000
+de la anticoncepción, esta herramienta tan necesaria
+
+841
+00:40:57,000 --> 00:41:00,000
+en nuestra sociedad que, a partir de la avance
+
+842
+00:41:00,000 --> 00:41:03,000
+de la salud sexual y reproductiva,
+
+843
+00:41:03,000 --> 00:41:05,000
+comienza a tomar un espacio de relevancia
+
+844
+00:41:05,000 --> 00:41:09,000
+en la vida sexual de las personas para llegar
+
+845
+00:41:09,000 --> 00:41:13,000
+para asegurar que se pueda vivir la sexualidad
+
+846
+00:41:13,000 --> 00:41:16,000
+desde el placer y no únicamente desde la reproducción.
+
+847
+00:41:17,000 --> 00:41:19,000
+Y también es una herramienta fundamental
+
+848
+00:41:19,000 --> 00:41:22,000
+para evitar las enfermedades de transmisión sexual.
+
+849
+00:41:22,000 --> 00:41:26,000
+Sin embargo, su disponibilidad en los sistemas de salud,
+
+850
+00:41:26,000 --> 00:41:29,000
+en general y también de Uruguay no están...
+
+851
+00:41:29,000 --> 00:41:33,000
+No distante tanto tiempo, es bastante reciente.
+
+852
+00:41:33,000 --> 00:41:36,000
+Y allí hubo varios cambios en nuestro sistema de salud,
+
+853
+00:41:36,000 --> 00:41:39,000
+varios avances para intentar asegurar el acceso
+
+854
+00:41:39,000 --> 00:41:44,000
+a la anticoncepción de manera total para la población uruguay.
+
+855
+00:41:44,000 --> 00:41:46,000
+Ya este es un proceso que comenzó en nuestro país
+
+856
+00:41:46,000 --> 00:41:49,000
+en 2008, más o menos, con los cambios.
+
+857
+00:41:49,000 --> 00:41:52,000
+En el sistema de salud y que se consolido en el 2011,
+
+858
+00:41:52,000 --> 00:41:55,000
+con el decreto 09-11,
+
+859
+00:41:55,000 --> 00:42:01,000
+que lo que hizo fue asegurar que la anticoncepción se dé
+
+860
+00:42:01,000 --> 00:42:03,000
+en todos los sistemas, tanto en el público,
+
+861
+00:42:03,000 --> 00:42:05,000
+como en el privado y esto.
+
+862
+00:42:05,000 --> 00:42:08,000
+Evidentemente, esa sí, está así decretado,
+
+863
+00:42:09,000 --> 00:42:11,000
+pero el acceso a la medicación
+
+864
+00:42:11,000 --> 00:42:12,000
+sigue siendo problemático,
+
+865
+00:42:12,000 --> 00:42:15,000
+justamente, sobre eso es que vamos a estar hablando.
+
+866
+00:42:15,000 --> 00:42:18,000
+Los días de siempre tienen un porqué.
+
+867
+00:42:18,000 --> 00:42:21,000
+En este caso, ¿cuál es...
+
+868
+00:42:21,000 --> 00:42:24,000
+¿por qué del día mundial de la anticoncepción?
+
+869
+00:42:24,000 --> 00:42:26,000
+Como estamos diciendo anteriormente,
+
+870
+00:42:26,000 --> 00:42:28,000
+la Administración Mundial de la Salud
+
+871
+00:42:28,000 --> 00:42:31,000
+toma a la anticoncepción como una parte fundamental
+
+872
+00:42:31,000 --> 00:42:33,000
+del cumplimiento de los derechos humanos
+
+873
+00:42:33,000 --> 00:42:37,000
+y en particular de los derechos vinculados a la salud sexual
+
+874
+00:42:37,000 --> 00:42:38,000
+y reproductiva.
+
+875
+00:42:38,000 --> 00:42:38,000
+¿Por qué?
+
+876
+00:42:39,000 --> 00:42:42,000
+Porque la vida sexual es una parte fundamental del bienestar
+
+877
+00:42:42,000 --> 00:42:45,000
+de las personas y, en tanto, no se pueda asegurar.
+
+878
+00:42:45,000 --> 00:42:48,000
+En ese sentido, no está completo el derecho a la salud.
+
+879
+00:42:48,000 --> 00:42:50,000
+Y porque además, la anticoncepción es fundamental
+
+880
+00:42:50,000 --> 00:42:52,000
+para evitar determinadas cuestiones,
+
+881
+00:42:53,000 --> 00:42:55,000
+determinadas complicaciones que pueden derivar,
+
+882
+00:42:55,000 --> 00:42:58,000
+incluso en la muerte y sobre eso,
+
+883
+00:42:58,000 --> 00:43:00,000
+justamente es que la Administración Mundial de Salud publicó
+
+884
+00:43:00,000 --> 00:43:03,000
+determinadas cifras que muestran.
+
+885
+00:43:03,000 --> 00:43:07,000
+Bueno, ¿qué es lo que sucedería si se le pudiera asegurar
+
+886
+00:43:07,000 --> 00:43:09,000
+a todas las personas, los métodos,
+
+887
+00:43:09,000 --> 00:43:12,000
+a todas las personas del mundo, a todos los países,
+
+888
+00:43:12,000 --> 00:43:16,000
+en los métodos modernos de anticoncepción.
+
+889
+00:43:16,000 --> 00:43:20,000
+Dicen que evitaría 54 millones de marasos no deseados,
+
+890
+00:43:20,000 --> 00:43:22,000
+26 millones de abortos,
+
+891
+00:43:22,000 --> 00:43:25,000
+de los cuales 16 millones serían peligrosos,
+
+892
+00:43:25,000 --> 00:43:27,000
+7 millones de abortos espontáneos,
+
+893
+00:43:27,000 --> 00:43:32,000
+y esto evitaría 79.000 muertes maternas.
+
+894
+00:43:32,000 --> 00:43:34,000
+Así que fíjense la importancia de trabajar
+
+895
+00:43:34,000 --> 00:43:37,000
+en el acceso a la anticoncepción.
+
+896
+00:43:37,000 --> 00:43:41,000
+Nos vamos a hablar con una ginecóloga leticia Riepi
+
+897
+00:43:41,000 --> 00:43:44,000
+que nos explicó, ¿cuál es lo que sucede
+
+898
+00:43:44,000 --> 00:43:47,000
+a la hora de ir una consulta ginecológica
+
+899
+00:43:47,000 --> 00:43:50,000
+y de solicitar un método adplicoceptivo?
+
+900
+00:43:50,000 --> 00:43:52,000
+¿Cuál es la información que debe estar disponible?
+
+901
+00:43:53,000 --> 00:43:55,000
+¿Cuál es la información que las personas le pueden solicitar
+
+902
+00:43:55,000 --> 00:43:57,000
+a sus ginecólogos o ginecólogos?
+
+903
+00:43:57,000 --> 00:44:00,000
+Y que además es necesario que estén presentes
+
+904
+00:44:00,000 --> 00:44:02,000
+siempre desde el punto de vista de la salud.
+
+905
+00:44:04,000 --> 00:44:06,000
+Cada una de las mujeres debe saber
+
+906
+00:44:06,000 --> 00:44:09,000
+que hay un método anticonceptivo que es el adecuado para ella
+
+907
+00:44:09,000 --> 00:44:13,000
+y que ese método anticonceptivo debe salir
+
+908
+00:44:13,000 --> 00:44:18,000
+del diálogo o de la entrevista que en el día 8 tengamos o
+
+909
+00:44:18,000 --> 00:44:22,000
+si precisa más tiempo para tomar una definición
+
+910
+00:44:22,000 --> 00:44:23,000
+ante otras nuevas dudas,
+
+911
+00:44:24,000 --> 00:44:27,000
+poder tener una idea de la situación.
+
+912
+00:44:27,000 --> 00:44:31,000
+Esencialmente hay dos o tres elementos
+
+913
+00:44:31,000 --> 00:44:36,000
+que son prioritarios manifestar.
+
+914
+00:44:36,000 --> 00:44:40,000
+Uno es que el doble método, la utilización de preservativos,
+
+915
+00:44:40,000 --> 00:44:45,000
+podríamos decir que no es un elemento menor,
+
+916
+00:44:45,000 --> 00:44:50,000
+al contrario, es algo fundamental el uso de un doble método.
+
+917
+00:44:50,000 --> 00:44:53,000
+Otro elemento importante a considerar
+
+918
+00:44:53,000 --> 00:44:57,000
+es los antecedentes sobre patología
+
+919
+00:44:57,000 --> 00:45:03,000
+o la patología que realmente contraindica
+
+920
+00:45:03,000 --> 00:45:07,000
+los métodos anticonceptivos hormonales
+
+921
+00:45:07,000 --> 00:45:09,000
+es la hipertronvicidad.
+
+922
+00:45:09,000 --> 00:45:13,000
+Después las otras patología pueden ser contraindicaciones
+
+923
+00:45:14,000 --> 00:45:16,000
+no absolutas.
+
+924
+00:45:16,000 --> 00:45:20,000
+Y el tercer elemento es que dentro de la gama
+
+925
+00:45:20,000 --> 00:45:23,000
+que tenemos de métodos anticonceptivos,
+
+926
+00:45:23,000 --> 00:45:26,000
+esencialmente los podemos dividir en tres.
+
+927
+00:45:26,000 --> 00:45:29,000
+En los métodos de barrera,
+
+928
+00:45:29,000 --> 00:45:31,000
+en los métodos hormonales
+
+929
+00:45:31,000 --> 00:45:35,000
+y en los métodos que son los dispositivos interuterinos,
+
+930
+00:45:35,000 --> 00:45:38,000
+consideramos que la anticoncepción
+
+931
+00:45:38,000 --> 00:45:41,000
+es una urgencia más
+
+932
+00:45:41,000 --> 00:45:43,000
+y que en el momento que la adolescente
+
+933
+00:45:43,000 --> 00:45:48,000
+concurre a la policlinica debe ser atendida
+
+934
+00:45:48,000 --> 00:45:51,000
+porque no tendanla en ese momento
+
+935
+00:45:51,000 --> 00:45:54,000
+es desaprovechar un momento ideal
+
+936
+00:45:54,000 --> 00:45:58,000
+para evitar un embarazo adolescente
+
+937
+00:45:58,000 --> 00:46:02,000
+no planificado o no decía.
+
+938
+00:46:02,000 --> 00:46:05,000
+¿A la anticoncepción en Uruguay?
+
+939
+00:46:05,000 --> 00:46:09,000
+De hecho, no hay muchísima información disponible
+
+940
+00:46:09,000 --> 00:46:10,000
+y es uno de los problemas
+
+941
+00:46:10,000 --> 00:46:12,000
+que tiene nuestro sistema de salud
+
+942
+00:46:12,000 --> 00:46:17,000
+porque no es posible rastrear la anticoncepción en nuestro país.
+
+943
+00:46:17,000 --> 00:46:20,000
+Si sabemos qué cantidad de anticonceptivos
+
+944
+00:46:20,000 --> 00:46:23,000
+dio un determinado prestador de salud, pero no a quienes.
+
+945
+00:46:24,000 --> 00:46:26,000
+Y eso no permite enfocar en, por ejemplo,
+
+946
+00:46:26,000 --> 00:46:28,000
+cuál es el acceso que está teniendo
+
+947
+00:46:28,000 --> 00:46:30,000
+la población vulnerable de nuestro país
+
+948
+00:46:30,000 --> 00:46:33,000
+o cuál es la abredcha que hay en ese acceso sin embargo,
+
+949
+00:46:33,000 --> 00:46:36,000
+igualmente hay una alta adhesión
+
+950
+00:46:36,000 --> 00:46:37,000
+a los anticonceptivos en nuestro país
+
+951
+00:46:37,000 --> 00:46:39,000
+y sobre eso justamente es que vamos a hablar
+
+952
+00:46:39,000 --> 00:46:42,000
+vamos a empezar como siempre compartiendo datos
+
+953
+00:46:42,000 --> 00:46:44,000
+en pantalla vinculados a esta vez
+
+954
+00:46:44,000 --> 00:46:47,000
+a una encuesta que hizo mujer y salud de Uruguay
+
+955
+00:46:47,000 --> 00:46:49,000
+esta organización que trabaja con los derechos sexuales
+
+956
+00:46:49,000 --> 00:46:52,000
+y reproductivos y que en el 2021
+
+957
+00:46:52,000 --> 00:46:57,000
+hizo un relevamiento justamente de utilización de anticonceptivos
+
+958
+00:46:57,000 --> 00:46:59,000
+y estos son algunos de los principales resultados.
+
+959
+00:46:59,000 --> 00:47:03,000
+Lo que estamos viendo acá es el uso de métodos anticonceptivos
+
+960
+00:47:03,000 --> 00:47:06,000
+en mujeres, en Uruguay como fue avanzando
+
+961
+00:47:06,000 --> 00:47:09,000
+como fue evolucionando a lo largo de los años,
+
+962
+00:47:09,000 --> 00:47:12,000
+como pueden ver, no dista tanto uno de otros.
+
+963
+00:47:12,000 --> 00:47:16,000
+Estamos viendo 2011, 2015 y 2021
+
+964
+00:47:16,000 --> 00:47:21,000
+en 2011, 83% de utilización de los métodos anticonceptivos
+
+965
+00:47:21,000 --> 00:47:25,000
+en 2015, 83% y allí hay un salto un poco más importante
+
+966
+00:47:25,000 --> 00:47:28,000
+de 2015 a 2021 a 86%
+
+967
+00:47:28,000 --> 00:47:31,000
+una cifra bastante grande, bastante importante
+
+968
+00:47:31,000 --> 00:47:34,000
+de la utilización de anticonceptivos en nuestro país.
+
+969
+00:47:34,000 --> 00:47:36,000
+¿Cuáles son estos anticonceptivos?
+
+970
+00:47:36,000 --> 00:47:39,000
+Esto es lo que vamos a ver en la siguiente placa
+
+971
+00:47:39,000 --> 00:47:44,000
+que muestra los diferentes tipos de anticonceptivos
+
+972
+00:47:44,000 --> 00:47:47,000
+y cuáles son los más utilizados
+
+973
+00:47:47,000 --> 00:47:49,000
+y los menos utilizados en nuestro país.
+
+974
+00:47:49,000 --> 00:47:54,000
+Hay una importantísima utilización de anticonceptivos via oral
+
+975
+00:47:54,000 --> 00:47:55,000
+que era lo que estamos escuchando.
+
+976
+00:47:55,000 --> 00:48:00,000
+Residen que mencionaba la eticia REAPI 58,37% de utilización
+
+977
+00:48:00,000 --> 00:48:02,000
+de este método, luego el principal dió masculino
+
+978
+00:48:02,000 --> 00:48:06,000
+que también tiene un peso importante, 51,26%,
+
+979
+00:48:06,000 --> 00:48:12,000
+el dió 9,70%, los implantes 5,85%,
+
+980
+00:48:12,000 --> 00:48:16,000
+la anticoncepción de emergencia que también es un tipo de anticoncepción
+
+981
+00:48:16,000 --> 00:48:22,000
+5,41%, el preservativo feminino 3,63%,
+
+982
+00:48:22,000 --> 00:48:25,000
+el injectable 1,85%,
+
+983
+00:48:25,000 --> 00:48:28,000
+luego los métodos irreversibles,
+
+984
+00:48:28,000 --> 00:48:33,000
+como el ligamento de las trombas de fallopio 0,74%,
+
+985
+00:48:33,000 --> 00:48:38,000
+los partes 0,52% y otros métodos que también existen 0,52%.
+
+986
+00:48:38,000 --> 00:48:40,000
+Lo que estamos viendo acá, ustedes dirán,
+
+987
+00:48:40,000 --> 00:48:42,000
+pero esto no suma 100%, bueno, no,
+
+988
+00:48:42,000 --> 00:48:45,000
+porque los métodos anticonceptivos se pueden superponer
+
+989
+00:48:45,000 --> 00:48:48,000
+y se pueden utilizar dos métodos al mismo tiempo
+
+990
+00:48:48,000 --> 00:48:49,000
+y de hecho, como estábamos escuchando recién
+
+991
+00:48:50,000 --> 00:48:53,000
+a la ginecola de decirlo, es algo recomendable desde la ginecología.
+
+992
+00:48:54,000 --> 00:48:56,000
+Y sobre eso justamente es que vamos a estar compartiendo
+
+993
+00:48:57,000 --> 00:48:57,000
+en la siguiente placa.
+
+994
+00:48:57,000 --> 00:49:02,000
+¿Qué es lo que sucede con la combinación de métodos anticonceptivos?
+
+995
+00:49:02,000 --> 00:49:04,000
+¿Y por qué es importante?
+
+996
+00:49:04,000 --> 00:49:06,000
+Bueno, porque algunos anticonceptivos,
+
+997
+00:49:06,000 --> 00:49:10,000
+como los orales no seuran que no se puedan transmitir
+
+998
+00:49:10,000 --> 00:49:14,000
+enfermedades sexuales y infecciones de ese estilo
+
+999
+00:49:14,000 --> 00:49:17,000
+y por eso es importante usar una doble protección.
+
+1000
+00:49:17,000 --> 00:49:19,000
+Sin embargo, los números en ese sentido en nuestro país
+
+1001
+00:49:19,000 --> 00:49:25,000
+no son tan alentadores, solamente un 77% usa un solo método
+
+1002
+00:49:25,000 --> 00:49:28,000
+y 23% de la población es quienes eligen
+
+1003
+00:49:28,000 --> 00:49:30,000
+optan por la doble protección
+
+1004
+00:49:30,000 --> 00:49:31,000
+que obviamente en ese sentido
+
+1005
+00:49:31,000 --> 00:49:35,000
+dan mayores garantías a nivel de la salud sexual y reproductiva
+
+1006
+00:49:35,000 --> 00:49:37,000
+y también con respecto a las enfermedades
+
+1007
+00:49:37,000 --> 00:49:39,000
+como estamos mencionando anteriormente.
+
+1008
+00:49:39,000 --> 00:49:42,000
+Lo que usablamos con quien dirige la organización mujer
+
+1009
+00:49:42,000 --> 00:49:45,000
+y salud en Uruguay, Lillán, Abrazínskaz,
+
+1010
+00:49:45,000 --> 00:49:47,000
+quienes hicieron esta investigación
+
+1011
+00:49:47,000 --> 00:49:50,000
+y nos tuvo comentando qué es lo que sucede con los derechos
+
+1012
+00:49:50,000 --> 00:49:52,000
+en ese sentido en nuestro país
+
+1013
+00:49:52,000 --> 00:49:54,000
+y qué es lo que debe hacer el Estado para...
+
+1014
+00:49:54,000 --> 00:49:58,000
+Bueno, de una manera garantizar el acceso a la anticoncepción.
+
+1015
+00:49:59,000 --> 00:50:03,000
+Tiene que haber una canasta amplia, además de métodos anticonceptivos
+
+1016
+00:50:03,000 --> 00:50:06,000
+porque los requerimientos en anticoncepción son múltiples,
+
+1017
+00:50:06,000 --> 00:50:09,000
+son variados, depende de tu historia,
+
+1018
+00:50:09,000 --> 00:50:14,000
+de tu situación, de tus antecedentes y de tus decisiones.
+
+1019
+00:50:14,000 --> 00:50:17,000
+Por lo tanto, deben haber una canasta amplia
+
+1020
+00:50:17,000 --> 00:50:19,000
+en métodos anticonceptivos
+
+1021
+00:50:19,000 --> 00:50:24,000
+y por ley deben ser provistas casi con costo cero,
+
+1022
+00:50:24,000 --> 00:50:27,000
+o sea, solo con costo de tique en medicamentos.
+
+1023
+00:50:27,000 --> 00:50:30,000
+Que además, en el caso de los métodos orales
+
+1024
+00:50:30,000 --> 00:50:34,000
+son por 13 blisters, o sea, cuando tú pagas una orden médica
+
+1025
+00:50:34,000 --> 00:50:36,000
+para estos en los sistemas mutuales,
+
+1026
+00:50:36,000 --> 00:50:41,000
+entonces, a 13 blisters, a 13 series,
+
+1027
+00:50:41,000 --> 00:50:43,000
+para toda la cobertura del año.
+
+1028
+00:50:43,000 --> 00:50:46,000
+De la encuesta que nosotros hicimos más de la mitad,
+
+1029
+00:50:47,000 --> 00:50:49,000
+accede a estos métodos por farmacias, o sea,
+
+1030
+00:50:49,000 --> 00:50:52,000
+en consumos en el mercado comercial.
+
+1031
+00:50:52,000 --> 00:50:55,000
+A un costo donde esos 13 blisters,
+
+1032
+00:50:55,000 --> 00:50:58,000
+que yo te decía, en la orden sale menos de un dólar
+
+1033
+00:50:58,000 --> 00:51:00,000
+para tener una idea.
+
+1034
+00:51:00,000 --> 00:51:05,000
+Cuando vos compras en farmacias, te sale 13 dólares cada blister.
+
+1035
+00:51:05,000 --> 00:51:07,000
+O sea, que estás pagando solo por una bestre,
+
+1036
+00:51:07,000 --> 00:51:11,000
+lo que tendrías que pagar por todo.
+
+1037
+00:51:11,000 --> 00:51:15,000
+Y además, el incremento de los precios en los anticonceptivos.
+
+1038
+00:51:15,000 --> 00:51:18,000
+Cuando fuimos a ver cuando había aumentado el costo
+
+1039
+00:51:18,000 --> 00:51:19,000
+de los métodos anticonceptivos
+
+1040
+00:51:19,000 --> 00:51:22,000
+y parte que, malamente, los orales fueron por encima
+
+1041
+00:51:22,000 --> 00:51:26,000
+de todo lo que ha sido los indicadores económicos.
+
+1042
+00:51:26,000 --> 00:51:33,000
+Con lo cual también hay una suerte de falta de preocupación del Estado,
+
+1043
+00:51:33,000 --> 00:51:37,000
+de cómo se accede, cómo es acceso a es universal,
+
+1044
+00:51:37,000 --> 00:51:40,000
+cómo se acceso de acuerdo a los parámetros,
+
+1045
+00:51:41,000 --> 00:51:44,000
+protocolos y guías clínicas que se han establecido,
+
+1046
+00:51:44,000 --> 00:51:46,000
+porque es justamente fundamental.
+
+1047
+00:51:46,000 --> 00:51:48,000
+Envitar en varas dos no deseados,
+
+1048
+00:51:48,000 --> 00:51:52,000
+evitar infecciones de transmisión sexual.
+
+1049
+00:51:52,000 --> 00:51:55,000
+Y a su vez garantizar que las matanidades y las paternidades
+
+1050
+00:51:55,000 --> 00:52:00,000
+sean deseadas, es realmente avanzar en términos sustantivos
+
+1051
+00:52:00,000 --> 00:52:03,000
+en el campo de la salud sexual y reproducción.
+
+1052
+00:52:04,000 --> 00:52:08,000
+Volvemos a la agenda política o a la agenda político partidaria
+
+1053
+00:52:08,000 --> 00:52:10,000
+y por eso recibimos a nuestra compañera Macarena Vico,
+
+1054
+00:52:10,000 --> 00:52:13,000
+que ya no os contó que estaba allí en la C del Frente Amplio,
+
+1055
+00:52:13,000 --> 00:52:15,000
+Macarena, con quién estás.
+
+1056
+00:52:16,000 --> 00:52:18,000
+Sí, compañeras, como mencionábamos más temprano,
+
+1057
+00:52:18,000 --> 00:52:22,000
+la mesa política del Frente Amplio está devaluando varios temas a esta hora.
+
+1058
+00:52:22,000 --> 00:52:26,000
+Entre ellos, la detención del jefe de seguridad del presidente Rira Kachepov,
+
+1059
+00:52:26,000 --> 00:52:28,000
+por eso estamos con la Senadora Linyan Kechichian
+
+1060
+00:52:28,000 --> 00:52:31,000
+para saber cuáles son las primeras apreciaciones sobre este tema.
+
+1061
+00:52:31,000 --> 00:52:32,000
+Son ahora.
+
+1062
+00:52:32,000 --> 00:52:37,000
+Sí, te diría dos temas que han concentrado nuestra preocupación,
+
+1063
+00:52:37,000 --> 00:52:41,000
+que es la denuncia del periodista Gabriel Pereira
+
+1064
+00:52:41,000 --> 00:52:46,000
+y el seguimiento que él dice que la inteligencia está realizando
+
+1065
+00:52:46,000 --> 00:52:49,000
+las denuncias en el sindicato policial
+
+1066
+00:52:49,000 --> 00:52:54,000
+de también sentirse espiados, escuchados en sus conversaciones
+
+1067
+00:52:54,000 --> 00:52:59,000
+y obviamente esta noticia desde nuestro punto de vista
+
+1068
+00:52:59,000 --> 00:53:04,000
+de una gravedad impresionante de la detención
+
+1069
+00:53:04,000 --> 00:53:09,000
+de uno de los custodios de nada más ni nada menos que el presidente de la República.
+
+1070
+00:53:09,000 --> 00:53:14,000
+Nos preocupa enormemente hoy ya la bancada de Senadores del Frente Amplio
+
+1071
+00:53:14,000 --> 00:53:19,000
+y su informe, un pedió de informe sobre el caso Gabriel Pereira
+
+1072
+00:53:19,000 --> 00:53:26,000
+y teníamos un informe también ya hace más de un año y medio
+
+1073
+00:53:26,000 --> 00:53:29,000
+sobre esta persona que nunca nos fue contestado,
+
+1074
+00:53:29,000 --> 00:53:35,000
+es una persona que tiene 21 antecedentes penales
+
+1075
+00:53:35,000 --> 00:53:40,000
+por temas como Hurto, como Estafa, como Receptación,
+
+1076
+00:53:40,000 --> 00:53:45,000
+es muy preocupante que alguien con ese prontuario
+
+1077
+00:53:45,000 --> 00:53:49,000
+estuviera a la olvresiente de la República.
+
+1078
+00:53:49,000 --> 00:53:52,000
+¿Pensan utilizar algún omecanismo legislativo sobre este tema?
+
+1079
+00:53:52,000 --> 00:53:59,000
+Bueno, es lo que estamos analizando seguramente por la gravedad del mismo sí.
+
+1080
+00:53:59,000 --> 00:54:02,000
+Tengamos que tomar algunas otras medidas,
+
+1081
+00:54:02,000 --> 00:54:06,000
+estamos en el medio en el Senado de la Rendición de Cuentas
+
+1082
+00:54:06,000 --> 00:54:09,000
+que empieza a votarse pasado mañana en la comisión
+
+1083
+00:54:09,000 --> 00:54:12,000
+y ya el lunes que viene en el plenario durante cuatro días
+
+1084
+00:54:12,000 --> 00:54:16,000
+pero estamos conversando con nuestros compañeros diputados también
+
+1085
+00:54:16,000 --> 00:54:21,000
+y con toda la fuerza política porque es un tema de una gravedad tan grande
+
+1086
+00:54:22,000 --> 00:54:26,000
+que sí que merecerá alguna otra respuesta de nuestra fuerza política.
+
+1087
+00:54:26,000 --> 00:54:29,000
+¿Tú decías que hace más de un año que estaban enterados
+
+1088
+00:54:29,000 --> 00:54:34,000
+de la situación y cómo despertado esa interrogante por su padre?
+
+1089
+00:54:34,000 --> 00:54:38,000
+Yo creo que hay mucha gente que estaba informada
+
+1090
+00:54:38,000 --> 00:54:40,000
+porque hubo muchas notas de prensa
+
+1091
+00:54:40,000 --> 00:54:43,000
+porque ya había habido algunas alertas,
+
+1092
+00:54:43,000 --> 00:54:47,000
+algunas luces amarillas vinculadas al propontoario de esta persona
+
+1093
+00:54:47,000 --> 00:54:51,000
+por lo tanto no estar enterado no es un argumento.
+
+1094
+00:54:51,000 --> 00:54:54,000
+Y si realmente lo consideran así,
+
+1095
+00:54:54,000 --> 00:54:57,000
+es de una ineptitud muy grande.
+
+1096
+00:54:57,000 --> 00:54:59,000
+Entonces, realmente nos preocupa.
+
+1097
+00:54:59,000 --> 00:55:02,000
+No es alguien que uno os diga o hoy nos enteramos
+
+1098
+00:55:02,000 --> 00:55:05,000
+de que antecedentes tiene esta persona,
+
+1099
+00:55:05,000 --> 00:55:08,000
+sino que ya hace más de año y medio
+
+1100
+00:55:08,000 --> 00:55:12,000
+que ya le habíamos pedido un pedido de informes que nos respondiera
+
+1101
+00:55:12,000 --> 00:55:14,000
+y nunca lo respondió.
+
+1102
+00:55:14,000 --> 00:55:16,000
+Muchas gracias, Senadora.
+
+1103
+00:55:16,000 --> 00:55:18,000
+Bueno, esto por acá, más adelante,
+
+1104
+00:55:18,000 --> 00:55:21,000
+tenemos más la variedad sobre las demás discusiones
+
+1105
+00:55:21,000 --> 00:55:23,000
+que están teniendo a esta hora la mesa política.
+
+1106
+00:55:24,000 --> 00:55:27,000
+Muchas gracias, Macarena y otro de los temas del día
+
+1107
+00:55:27,000 --> 00:55:29,000
+fue el del banco república, ¿verdad?
+
+1108
+00:55:30,000 --> 00:55:32,000
+Que no brindó servicios en sus sucursales ni a través
+
+1109
+00:55:32,000 --> 00:55:33,000
+de la página web,
+
+1110
+00:55:33,000 --> 00:55:37,000
+este lunes debido a un problema en el sistema informático.
+
+1111
+00:55:38,000 --> 00:55:41,000
+A través de un comunicado, la entidad bancaria pública
+
+1112
+00:55:41,000 --> 00:55:43,000
+informó que los servicios técnicos del banco
+
+1113
+00:55:43,000 --> 00:55:47,000
+estaban trabajando junto con proveedores de servicios informáticos
+
+1114
+00:55:47,000 --> 00:55:49,000
+para la resolución de esta inconveniente
+
+1115
+00:55:49,000 --> 00:55:50,000
+que está prevista,
+
+1116
+00:55:50,000 --> 00:55:54,000
+este es el dato más importante para este martes desde la mañana.
+
+1117
+00:55:54,000 --> 00:55:57,000
+Y por esta situación, el organismo informó
+
+1118
+00:55:57,000 --> 00:55:59,000
+que todos los vencimientos quedan posttergados
+
+1119
+00:55:59,000 --> 00:56:03,000
+para el martes 27 debido a la interrupción de este servicio.
+
+1120
+00:56:04,000 --> 00:56:06,000
+Así que posttergados hasta mañana los vencimientos.
+
+1121
+00:56:06,000 --> 00:56:08,000
+Y ahora columna de ambiente.
+
+1122
+00:56:08,000 --> 00:56:11,000
+¿Cómo se atuvió el mariano de Breu?
+
+1123
+00:56:11,000 --> 00:56:15,000
+¿Qué vamos a seguir hablando sobre el proyecto llamado
+
+1124
+00:56:15,000 --> 00:56:17,000
+Miocundo o proyecto?
+
+1125
+00:56:17,000 --> 00:56:20,000
+¿Qué fue lo que fue el males y misiones de subnumilación
+
+1126
+00:56:20,000 --> 00:56:22,000
+al tema del agua?
+
+1127
+00:56:22,000 --> 00:56:26,000
+¿Recordemos que es una iniciativa privada, presentada por...
+
+1128
+00:56:26,000 --> 00:56:28,000
+Ya seguiremos con mariana en el informe,
+
+1129
+00:56:28,000 --> 00:56:30,000
+hay una dificultad que estamos susanando
+
+1130
+00:56:30,000 --> 00:56:33,000
+y tendremos en instante la profundización,
+
+1131
+00:56:33,000 --> 00:56:34,000
+yo que estamos hablando de eso,
+
+1132
+00:56:34,000 --> 00:56:37,000
+en esto de una nueva planta potabilizadora como proyecto.
+
+1133
+00:56:37,000 --> 00:56:39,000
+Sí, sí, bueno, estamos ahí,
+
+1134
+00:56:39,000 --> 00:56:42,000
+están solucionando un temita de audio que estábamos teniendo
+
+1135
+00:56:42,000 --> 00:56:44,000
+y vamos a escuchar,
+
+1136
+00:56:44,000 --> 00:56:47,000
+entonces lo que nos va a informar
+
+1137
+00:56:47,000 --> 00:56:50,000
+en nuestra compañera mariana Breu sobre este proyecto,
+
+1138
+00:56:50,000 --> 00:56:52,000
+el que estamos escuchando mucho,
+
+1139
+00:56:52,000 --> 00:56:56,000
+pero no siempre sabemos exactamente qué se trata.
+
+1140
+00:56:56,000 --> 00:56:58,000
+Ya iremos con ese tema, pero yo me pregunto
+
+1141
+00:56:58,000 --> 00:57:00,000
+y mucha gente se pregunta en Italia por esta fecha,
+
+1142
+00:57:01,000 --> 00:57:04,000
+¿cómo vendrá esta primavera en términos del tiempo?
+
+1143
+00:57:04,000 --> 00:57:06,000
+Bueno, dos cositas nada más.
+
+1144
+00:57:06,000 --> 00:57:07,000
+¿Cómo sabes?
+
+1145
+00:57:08,000 --> 00:57:10,000
+Y si te parece pasamos a que nos cuenten quienes saben,
+
+1146
+00:57:10,000 --> 00:57:11,000
+realmente de esto,
+
+1147
+00:57:11,000 --> 00:57:13,000
+pero parece que va a dar poca lluvia en la primavera
+
+1148
+00:57:13,000 --> 00:57:16,000
+y que las temperaturas van a ser un poquito más altas
+
+1149
+00:57:16,000 --> 00:57:17,000
+del honor mal.
+
+1150
+00:57:18,000 --> 00:57:20,000
+Lo que estamos esperando para la primavera
+
+1151
+00:57:20,000 --> 00:57:23,000
+son precipitaciones por debajo del honor mal.
+
+1152
+00:57:23,000 --> 00:57:26,000
+Si a nivel país prevemos que la estadística dice
+
+1153
+00:57:26,000 --> 00:57:30,000
+que las precipitaciones están en el entorno de los 300 milímetros
+
+1154
+00:57:30,000 --> 00:57:31,000
+aproximadamente,
+
+1155
+00:57:31,000 --> 00:57:33,000
+es que las precipitaciones van a estar por debajo de ese valor.
+
+1156
+00:57:34,000 --> 00:57:36,000
+Y las temperaturas esperamos que estén dentro del honor mal
+
+1157
+00:57:36,000 --> 00:57:38,000
+y levemente por encima del honor mal,
+
+1158
+00:57:38,000 --> 00:57:40,000
+que eso significa que siempre en primeravera
+
+1159
+00:57:40,000 --> 00:57:43,000
+estamos estadísticamente hablando con temperaturas de 17 grados,
+
+1160
+00:57:43,000 --> 00:57:45,000
+van a estar en 13 valor y un poquito más.
+
+1161
+00:57:45,000 --> 00:57:48,000
+De eso es porque aún continuamos con el efecto de la niña
+
+1162
+00:57:48,000 --> 00:57:49,000
+que lo que genera en nuestra región
+
+1163
+00:57:49,000 --> 00:57:51,000
+es un déficit en las precipitaciones
+
+1164
+00:57:51,000 --> 00:57:53,000
+y que las temperaturas se comporten de esa forma.
+
+1165
+00:57:53,000 --> 00:57:56,000
+Ya venimos con este evento durante los últimos tres años
+
+1166
+00:57:56,000 --> 00:57:58,000
+y lo que estamos previendo según los modelos climáticos
+
+1167
+00:57:58,000 --> 00:58:00,000
+es que esta situación continúe
+
+1168
+00:58:00,000 --> 00:58:02,000
+por lo menos hasta principios del verano.
+
+1169
+00:58:02,000 --> 00:58:03,000
+¿Sabes qué pasa con los vientos
+
+1170
+00:58:04,000 --> 00:58:06,000
+que se lo bastante frecuenten esta época también?
+
+1171
+00:58:06,000 --> 00:58:08,000
+Bueno, en realidad debido a la ubicación de los sistemas meteorológicos
+
+1172
+00:58:08,000 --> 00:58:12,000
+es que en esta época hay como un incremento un poco más en el viento
+
+1173
+00:58:12,000 --> 00:58:14,000
+y eso genera esa sensación.
+
+1174
+00:58:14,000 --> 00:58:17,000
+Aún no tenemos una estadística de los vientos en esta época del año,
+
+1175
+00:58:17,000 --> 00:58:20,000
+pero sí sabemos que debido a la ubicación de los sistemas,
+
+1176
+00:58:20,000 --> 00:58:23,000
+esta época de la niña son poco más ventosa que el resto.
+
+1177
+00:58:23,000 --> 00:58:27,000
+Decías que estos fenómenos, como con suuencia de la niña,
+
+1178
+00:58:28,000 --> 00:58:29,000
+son los que provocan también, por ejemplo,
+
+1179
+00:58:29,000 --> 00:58:31,000
+en Centroamérica, más huracánicos.
+
+1180
+00:58:31,000 --> 00:58:34,000
+Claro, lo que sucede es que la niña tiene diferentes comportamientos
+
+1181
+00:58:34,000 --> 00:58:36,000
+tanto el fenómeno del niño como de la niña
+
+1182
+00:58:36,000 --> 00:58:39,000
+se comportan diferentes de acuerdo en la zona del planeta donde estemos.
+
+1183
+00:58:39,000 --> 00:58:42,000
+La niña, nuestra región, genera déficit en las precipitaciones,
+
+1184
+00:58:42,000 --> 00:58:44,000
+pero en regiones más como Centroamérica,
+
+1185
+00:58:44,000 --> 00:58:47,000
+generan caya una intensificación en los sistemas meteorológicos
+
+1186
+00:58:47,000 --> 00:58:49,000
+más comunes para esas latitudes.
+
+1187
+00:58:49,000 --> 00:58:51,000
+Al revés que el niño, el niño, nuestras latitudes,
+
+1188
+00:58:52,000 --> 00:58:54,000
+genera un aumento en las precipitaciones
+
+1189
+00:58:54,000 --> 00:58:57,000
+y en esas latitudes genera un déficit en las precipitaciones.
+
+1190
+00:58:57,000 --> 00:59:00,000
+Natal y Ventancor señaló que las bajas precipitaciones
+
+1191
+00:59:00,000 --> 00:59:02,000
+no son una buena noticia para el agro.
+
+1192
+00:59:02,000 --> 00:59:04,000
+Recomienda que se siga las estadísticas
+
+1193
+00:59:04,000 --> 00:59:07,000
+y se trate de planificar de acuerdo al pronóstico,
+
+1194
+00:59:07,000 --> 00:59:10,000
+que se trate de planificar de acuerdo a lo que se está previendo
+
+1195
+00:59:10,000 --> 00:59:12,000
+en los modelos climáticos,
+
+1196
+00:59:12,000 --> 00:59:14,000
+porque esa información es de mucha utilidad
+
+1197
+00:59:14,000 --> 00:59:17,000
+para hacer una buena planificación y que el sector
+
+1198
+00:59:17,000 --> 00:59:19,000
+pueda tomar las medidas correspondientes.
+
+1199
+00:59:21,000 --> 00:59:23,000
+Y ahora sí, proyecto en eptuno como tema.
+
+1200
+00:59:23,000 --> 00:59:27,000
+Sí, es la mejor solución o alternativa
+
+1201
+00:59:27,000 --> 00:59:29,000
+para el abastecimiento de agua mariana.
+
+1202
+00:59:29,000 --> 00:59:30,000
+Exactamente, bueno, esa es la pregunta
+
+1203
+00:59:30,000 --> 00:59:32,000
+que nos planteamos en esta informe.
+
+1204
+00:59:33,000 --> 00:59:36,000
+Estudimos hablando días atrás sobre si el proyecto
+
+1205
+00:59:36,000 --> 00:59:39,000
+en eptuno implicó la privatización del agua
+
+1206
+00:59:39,000 --> 00:59:43,000
+como plantearon diferentes actores sociales y políticos.
+
+1207
+00:59:43,000 --> 00:59:46,000
+Recordemos, se trata de esta planta potabilizadora de agua,
+
+1208
+00:59:46,000 --> 00:59:49,000
+construirse en el departamento de San José
+
+1209
+00:59:49,000 --> 00:59:52,000
+para abastecer, Montevideo y la zona metropolitana,
+
+1210
+00:59:52,000 --> 00:59:57,000
+una iniciativa presentada por un consorcio de empresas privadas,
+
+1211
+00:59:57,000 --> 01:00:01,000
+esa sembar, que es ciencia y fast, que es una inversión
+
+1212
+01:00:01,000 --> 01:00:04,000
+de casi 250 millones de dólares.
+
+1213
+01:00:04,000 --> 01:00:06,000
+Por eso es tan importante hablar de este proyecto,
+
+1214
+01:00:06,000 --> 01:00:09,000
+porque implica nada más y nada menos con el recurso de agua
+
+1215
+01:00:09,000 --> 01:00:12,000
+y también una importante inversión que hace el Estado
+
+1216
+01:00:12,000 --> 01:00:14,000
+en última instancia, más allá de que se trate
+
+1217
+01:00:15,000 --> 01:00:18,000
+de una financiación privada.
+
+1218
+01:00:18,000 --> 01:00:21,000
+Bueno, esta interrogante, si es la mejor alternativa,
+
+1219
+01:00:21,000 --> 01:00:24,000
+le va a tener que responder también el Ministero de Ambiente,
+
+1220
+01:00:24,000 --> 01:00:28,000
+Adrián Peña, que fue convocado por la Cámara de Diputados
+
+1221
+01:00:28,000 --> 01:00:30,000
+al Palamento a dar explicaciones.
+
+1222
+01:00:30,000 --> 01:00:33,000
+Así que ahí van a surgir seguramente nuevos elementos,
+
+1223
+01:00:33,000 --> 01:00:38,000
+pero las autoridades ya han defendido este proyecto
+
+1224
+01:00:38,000 --> 01:00:40,000
+que tiene el nombre del dios romano,
+
+1225
+01:00:41,000 --> 01:00:43,000
+en eptuno del dios del agua y de los mares.
+
+1226
+01:00:43,000 --> 01:00:47,000
+Lo que sí hay un consenso o este proyecto parte de un consenso
+
+1227
+01:00:47,000 --> 01:00:51,000
+que es la necesidad de generar más agua potable.
+
+1228
+01:00:51,000 --> 01:00:53,000
+¿Por qué? Porque crece la demanda
+
+1229
+01:00:53,000 --> 01:00:55,000
+y la planta de aguas corrientes
+
+1230
+01:00:55,000 --> 01:00:58,000
+que está ahora en el Departamento de Canelones
+
+1231
+01:00:58,000 --> 01:01:02,000
+y toma agua del río Santa Lucía, no da basto.
+
+1232
+01:01:02,000 --> 01:01:04,000
+De hecho, en algunos momentos del año,
+
+1233
+01:01:04,000 --> 01:01:07,000
+en algunas regiones ya hay problemas de abastecimiento.
+
+1234
+01:01:07,000 --> 01:01:10,000
+Vamos a compartir un mapa donde vemos la ubicación
+
+1235
+01:01:10,000 --> 01:01:12,000
+justamente de lo que es esta planta,
+
+1236
+01:01:12,000 --> 01:01:15,000
+como vemos planta de oce de aguas corrientes,
+
+1237
+01:01:15,000 --> 01:01:19,000
+que ya está instalada y funcionando y dando abastecimiento
+
+1238
+01:01:19,000 --> 01:01:21,000
+a Montevideo Sonamente lo Politana,
+
+1239
+01:01:21,000 --> 01:01:26,000
+que es allí donde vimos el 60% de la población,
+
+1240
+01:01:26,000 --> 01:01:29,000
+pero la demanda aumenta año a año.
+
+1241
+01:01:29,000 --> 01:01:32,000
+Y además, la calidad del agua que llega,
+
+1242
+01:01:32,000 --> 01:01:36,000
+las plantas está deteriorada, deteriorada.
+
+1243
+01:01:36,000 --> 01:01:38,000
+Así que bueno,
+
+1244
+01:01:38,000 --> 01:01:41,000
+este es un problema que se puede llegar a agravar.
+
+1245
+01:01:41,000 --> 01:01:44,000
+El tema es si este proyecto en eptuno,
+
+1246
+01:01:44,000 --> 01:01:46,000
+ahora lo vemos localizado también en el mapa,
+
+1247
+01:01:46,000 --> 01:01:49,000
+toma batomar agua del río de la planta,
+
+1248
+01:01:49,000 --> 01:01:52,000
+ya de el río Santa Lucía,
+
+1249
+01:01:52,000 --> 01:01:54,000
+a ver si lo podemos ver en pantalla,
+
+1250
+01:01:54,000 --> 01:01:57,000
+el proyecto en eptuno, ahí en arasatí.
+
+1251
+01:01:57,000 --> 01:02:02,000
+Bueno, si esta opción es la mejor, la más indicada,
+
+1252
+01:02:02,000 --> 01:02:04,000
+para justamente responder,
+
+1253
+01:02:04,000 --> 01:02:06,000
+ahí lo vemos el problema de abastecimiento.
+
+1254
+01:02:06,000 --> 01:02:07,000
+¿Por qué?
+
+1255
+01:02:08,000 --> 01:02:11,000
+Porque las autoridades anteriores de la administración pasada,
+
+1256
+01:02:11,000 --> 01:02:14,000
+ya venían trabajando en una alternativa,
+
+1257
+01:02:14,000 --> 01:02:18,000
+que era generar un embalse y una represa en el arroyo,
+
+1258
+01:02:18,000 --> 01:02:22,000
+Casupá, a ver si lo podemos ver en el departamento de Florida,
+
+1259
+01:02:23,000 --> 01:02:27,000
+una inversión menor de 80 millones de dólares,
+
+1260
+01:02:27,000 --> 01:02:28,000
+y bueno, ahí,
+
+1261
+01:02:28,000 --> 01:02:32,000
+hay diferentes visiones con respecto a cuál alternativa
+
+1262
+01:02:33,000 --> 01:02:34,000
+es la más adecuada.
+
+1263
+01:02:34,000 --> 01:02:37,000
+Vamos a escuchar lo que decía el subsecretario
+
+1264
+01:02:38,000 --> 01:02:39,000
+de ambiente Gerardo Amarillo,
+
+1265
+01:02:39,000 --> 01:02:41,000
+respecto Gerardo Amarillo, perdón,
+
+1266
+01:02:41,000 --> 01:02:44,000
+respecto a Nectuno y a Casupá.
+
+1267
+01:02:44,000 --> 01:02:48,000
+Curuguay no puede, sobre todo su álame topoitar,
+
+1268
+01:02:48,000 --> 01:02:51,000
+no pueden depender de una sola fuente, como tiene hoy,
+
+1269
+01:02:51,000 --> 01:02:56,000
+y una planta que ha cumplido, ha cumplido heroicamente
+
+1270
+01:02:56,000 --> 01:02:59,000
+su labor de probar de agua motriz de hoy,
+
+1271
+01:02:59,000 --> 01:03:01,000
+pero que es un río que hay mayor,
+
+1272
+01:03:01,000 --> 01:03:03,000
+la dependencia solamente de esa planta.
+
+1273
+01:03:03,000 --> 01:03:06,000
+O sea que necesitamos una fuente alternativa,
+
+1274
+01:03:06,000 --> 01:03:08,000
+eso nos plantea este proyecto,
+
+1275
+01:03:08,000 --> 01:03:10,000
+que la toma del río de la plata,
+
+1276
+01:03:10,000 --> 01:03:13,000
+una faya de día que además va a generar
+
+1277
+01:03:13,000 --> 01:03:17,000
+una mejora ambiental en el Vévo de Santa Lucía,
+
+1278
+01:03:17,000 --> 01:03:19,000
+al bajar la presión que tiene hoy,
+
+1279
+01:03:19,000 --> 01:03:21,000
+para estar de agua para montar el río.
+
+1280
+01:03:21,000 --> 01:03:23,000
+Casupá es la misma cuesta de la Lucía,
+
+1281
+01:03:23,000 --> 01:03:24,000
+no quiere decir que no pongo que se postar
+
+1282
+01:03:25,000 --> 01:03:27,000
+y el del por ciento o que se abandone el bonito de Casupá.
+
+1283
+01:03:27,000 --> 01:03:30,000
+Casupá seguramente el monto que se va a estimar
+
+1284
+01:03:30,000 --> 01:03:32,000
+en un principio iba a quedar muy chico,
+
+1285
+01:03:33,000 --> 01:03:36,000
+porque eso solamente abarcaba la presa de Casupá,
+
+1286
+01:03:36,000 --> 01:03:40,000
+y no tenía en cuenta las necesarias reformas
+
+1287
+01:03:40,000 --> 01:03:43,000
+de inversiones en la planta de agua corriente,
+
+1288
+01:03:43,000 --> 01:03:45,000
+que al recibir más agua,
+
+1289
+01:03:45,000 --> 01:03:48,000
+iba a recrear una ampliación a su vez como a línea bombéo.
+
+1290
+01:03:49,000 --> 01:03:50,000
+O sea que era de una manera ahí,
+
+1291
+01:03:50,000 --> 01:03:54,000
+iba a seguramente el presupuesto original de Casupá,
+
+1292
+01:03:54,000 --> 01:03:56,000
+iba a ser el doble para que se proyectos
+
+1293
+01:03:56,000 --> 01:03:58,000
+terminará produciendo de agua a montar el río.
+
+1294
+01:03:59,000 --> 01:04:02,000
+Bueno, y el gobierno, justamente ya que escuchábamos
+
+1295
+01:04:02,000 --> 01:04:04,000
+al secretario de Ambiente, decidió contratar una empresa
+
+1296
+01:04:04,000 --> 01:04:08,000
+que es Israel y para evaluar este proyecto nept 1.
+
+1297
+01:04:08,000 --> 01:04:11,000
+Exactamente, esta compañía es realí,
+
+1298
+01:04:11,000 --> 01:04:13,000
+hizo diferentes consideraciones respecto
+
+1299
+01:04:13,000 --> 01:04:16,000
+de este proyecto, pero me gustaría atacar una,
+
+1300
+01:04:16,000 --> 01:04:20,000
+que es el tema de la salinidad y los eventos de salinidad
+
+1301
+01:04:20,000 --> 01:04:23,000
+que suceden en el río de la plate,
+
+1302
+01:04:23,000 --> 01:04:26,000
+cómo puede llegar a afectar esto la producción de agua potable.
+
+1303
+01:04:26,000 --> 01:04:29,000
+De hecho, este es uno de los argumentos que técnicos
+
+1304
+01:04:29,000 --> 01:04:33,000
+y la oposición política sustentan para rechazar
+
+1305
+01:04:33,000 --> 01:04:36,000
+lo que este proyecto está empresa,
+
+1306
+01:04:36,000 --> 01:04:39,000
+de esta cola necesidad de generar reservorios de agua
+
+1307
+01:04:39,000 --> 01:04:44,000
+para mezclar con el agua que se destruye en las canarias
+
+1308
+01:04:44,000 --> 01:04:46,000
+y así bajar lo que es la salinidad.
+
+1309
+01:04:46,000 --> 01:04:48,000
+Vamos a escuchar ahora de Gardo Ortunio,
+
+1310
+01:04:48,000 --> 01:04:51,000
+quien es representante por el frente amplio
+
+1311
+01:04:51,000 --> 01:04:53,000
+en el directorio de O sea.
+
+1312
+01:04:54,000 --> 01:04:56,000
+Cuando se estudiaron todas las alternativas,
+
+1313
+01:04:56,000 --> 01:05:00,000
+todas descartaron el río de la plata como fuente
+
+1314
+01:05:00,000 --> 01:05:03,000
+por los problemas de la salinidad alta
+
+1315
+01:05:03,000 --> 01:05:06,000
+en niveles no admisibles para su potabilización
+
+1316
+01:05:06,000 --> 01:05:10,000
+y justamente en los estudios de este proyecto en el túno
+
+1317
+01:05:10,000 --> 01:05:15,000
+se ha comprobado que sólo en este verano tuvimos 86 días
+
+1318
+01:05:15,000 --> 01:05:17,000
+de salinidad que hubieran significado
+
+1319
+01:05:17,000 --> 01:05:20,000
+que la planta no hubiera podido producir.
+
+1320
+01:05:20,000 --> 01:05:23,000
+Por lo tanto, crearon como alternativa
+
+1321
+01:05:23,000 --> 01:05:26,000
+y estas son las dificultades que tienen el río de la plata,
+
+1322
+01:05:26,000 --> 01:05:30,000
+en su calidad, la construcción de una laguna artificial
+
+1323
+01:05:30,000 --> 01:05:34,000
+y una reserva de agua dulce donde pudiera abastecera la planta
+
+1324
+01:05:34,000 --> 01:05:38,000
+en casos cuando el río tiene salinidad
+
+1325
+01:05:38,000 --> 01:05:39,000
+en esos niveles estar importantes.
+
+1326
+01:05:40,000 --> 01:05:41,000
+Y ahora se está planteando eliminar,
+
+1327
+01:05:41,000 --> 01:05:47,000
+por lo tanto, si esto es así, invertiremos millones y millones
+
+1328
+01:05:47,000 --> 01:05:50,000
+de dólares en un proyecto que no va a solucionar nada
+
+1329
+01:05:50,000 --> 01:05:52,000
+porque no la vamos a poder tener disponible,
+
+1330
+01:05:52,000 --> 01:05:56,000
+produciendo agopotable cuando la necesitamos que se enverano
+
+1331
+01:05:56,000 --> 01:05:58,000
+proyecto a proyecto, el proyecto de caso pasa
+
+1332
+01:05:58,000 --> 01:06:02,000
+al menos de la mitad en lo que es la obra de construcción.
+
+1333
+01:06:02,000 --> 01:06:04,000
+Venimos preguntando hace meses
+
+1334
+01:06:04,000 --> 01:06:07,000
+¿dónde están los estudios serios científicos,
+
+1335
+01:06:07,000 --> 01:06:11,000
+de ingeniería que sustenten lo que afirma el gobierno
+
+1336
+01:06:11,000 --> 01:06:13,000
+de que se aldría más casupas y no han aparecido?
+
+1337
+01:06:13,000 --> 01:06:15,000
+No hay, o no se no existen.
+
+1338
+01:06:17,000 --> 01:06:20,000
+Para el cierre, Mariana, ¿se consultó a la Academia
+
+1339
+01:06:20,000 --> 01:06:21,000
+para desarrollar el proyecto?
+
+1340
+01:06:21,000 --> 01:06:24,000
+Justamente nosotros estuvimos conversando
+
+1341
+01:06:24,000 --> 01:06:28,000
+con diferentes fuentes académicas y destacaba la necesidad
+
+1342
+01:06:28,000 --> 01:06:30,000
+de que más actores que han estudiado estos temas
+
+1343
+01:06:30,000 --> 01:06:33,000
+estén en esta discusión que todavía no está saldada,
+
+1344
+01:06:33,000 --> 01:06:35,000
+estuve conversando con Luis Aubriot,
+
+1345
+01:06:35,000 --> 01:06:38,000
+quien es doctor en biología y también investigador
+
+1346
+01:06:38,000 --> 01:06:41,000
+de la Facultad de Ciências del Audelar
+
+1347
+01:06:41,000 --> 01:06:45,000
+y Aubriot decía que el tema del río de la plata,
+
+1348
+01:06:45,000 --> 01:06:47,000
+o sea, en el río de la plata hay se anovaterias,
+
+1349
+01:06:47,000 --> 01:06:51,000
+son estas algastóxicas que afectan a los humanos
+
+1350
+01:06:51,000 --> 01:06:54,000
+y que por ese motivo entendía que el proyecto de nectunos
+
+1351
+01:06:54,000 --> 01:06:57,000
+no era la opción quizá más favorable
+
+1352
+01:06:57,000 --> 01:07:00,000
+si había dicho que en Casupá una embalse genera
+
+1353
+01:07:00,000 --> 01:07:02,000
+las condiciones para que justamente haya
+
+1354
+01:07:02,000 --> 01:07:05,000
+siano-bacterias, pero era un ecosistema podrías hacer,
+
+1355
+01:07:05,000 --> 01:07:08,000
+de generarse de esto, este embalse más controlado,
+
+1356
+01:07:08,000 --> 01:07:13,000
+no ha sido un río sobre el que no se puede tener mucho control.
+
+1357
+01:07:13,000 --> 01:07:16,000
+De todas maneras, también hablo de otras alternativas
+
+1358
+01:07:16,000 --> 01:07:19,000
+como de aumentar embalces, la cota,
+
+1359
+01:07:19,000 --> 01:07:23,000
+embalces ya existentes para generar más volumen
+
+1360
+01:07:23,000 --> 01:07:26,000
+en lo que es el Santa Lucía y poder potabilizar más agua,
+
+1361
+01:07:26,000 --> 01:07:30,000
+pero quisiera cerrar con una reflexión que hacía Aubriot
+
+1362
+01:07:30,000 --> 01:07:33,000
+porque todo esto parte de un aumento de la demanda,
+
+1363
+01:07:33,000 --> 01:07:34,000
+como dijimos, ¿no?
+
+1364
+01:07:34,000 --> 01:07:37,000
+Entonces, Aubriot decía, bueno, es necesario también cuestionarse
+
+1365
+01:07:37,000 --> 01:07:40,000
+o problematizarse cómo consumimos el agua potable
+
+1366
+01:07:40,000 --> 01:07:44,000
+por parte de la industria, pero también por parte de los particulares.
+
+1367
+01:07:44,000 --> 01:07:48,000
+Había, ponía los ejemplos, se delaban autos con agua potable,
+
+1368
+01:07:48,000 --> 01:07:52,000
+se tira la cisterna y se utiliza agua potable en muchísimas casas.
+
+1369
+01:07:52,000 --> 01:07:57,000
+Entonces, bueno, él decía, es interesante también problematizar
+
+1370
+01:07:57,000 --> 01:07:59,000
+y cuidar más ya desde el consumo,
+
+1371
+01:07:59,000 --> 01:08:02,000
+además de arreglar las tuberías, se pierde más de la mitad
+
+1372
+01:08:02,000 --> 01:08:04,000
+del agua potable por las diferentes canierías.
+
+1373
+01:08:04,000 --> 01:08:08,000
+Yo sé que están en mal estado y sobre esto también están trabajando
+
+1374
+01:08:08,000 --> 01:08:11,000
+en las autoridades, así que veremos qué pasa al respecto.
+
+1375
+01:08:12,000 --> 01:08:16,000
+Bien, muy interesante, Mariana, muchas gracias.
+
+1376
+01:08:16,000 --> 01:08:17,000
+Cerramos la columna, ¿no?
+
+1377
+01:08:17,000 --> 01:08:19,000
+Cerramos la columna y el bloque, Martín.
+
+1378
+01:08:19,000 --> 01:08:22,000
+Es cierto, pero no se va a ir porque hay más.
+

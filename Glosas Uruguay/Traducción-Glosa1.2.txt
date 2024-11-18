@@ -1,0 +1,76 @@
+Glosa 1:
+1)HOLA-A-TODOS
+BUENAS
+BIEN
+______________int
+DET QUÉ1 MES
+_____int
+QUÉ2
+OCTUBRE
+_____________int
+QUÉ1 HABER
+_________________________int
+QUÉ1 TENER DENTRO DET
+A-LO-LARGO-DE-UN-TIEMPO ANIVERSARIO COMISI{ON JUVENTUD ASOCIACIÓN
+________________________int
+QUÉ1 FECHA FUNDACIÓN
+UNO-SEIS OCTUBRE AÑO MI-NUEVE-SEIS-OCHO
+DENTRO-DE-UN-TIEMPO QUÉ1 CUATRO-CINCO
+2) HOLA-A-TODOS PRO1 AHORA Pro1-CONTAR-Pro2 GLOSAX*
+SABER DENTRO-DENTRO-DE-UN-TIEMPO FIESTA
+NUEVE NOVIEMBRE
+HORA OCHO NOCHE EMPEZAR HASTA*2 NO-IMPORTAR
+_______int
+DÖNDE
+DET  ASOCIACI]ON SORDOS URUGUAY
+POR-FAVOR Pro2-VENIR-pl DIVERSI{ON
+3)Pro3-CONTAR-Pro2 FIESTA
+ADENTRO QU{E*3 COMIDA
+ENNUMERACI{ON-UNO ASADO POLLO CHORIZO-pl ENSALADA-RUSA TOMATE LECHUGA POSTRE TORTA
+BEBIDA APARTE
+HABER ACTIVIDAD-pl LINDO SORTEO-pl
+REINA MUJER PENSAR S{OLO MUJER
+NO
+HOMBRE TAMBI{EN
+HABER PREMIO-pl REGALO-pl SORPRESA
+4)________________int
+   PLATA CU{ANTO
+ASOCIACI{ON DOS-CINCO-CERO
+NO ASOCIACI{ON TRES-CINCO-CERO
+PERO APARTE BEBIDA APARTE
+CONJUNTO COMIDA ENNUMERACI{ON UNO-DOS-TRES-SI
+5)________________________int
+   AHORA PAGAR CU{ANDO
+{ULTIMO D{IA PAGAR FECHA SIETE NOVIEMBRE
+______________int
+QUI{EN PAGAR
+AVISAR*4 Pro2-AVISAR-Pro1 PRO1 O PRO3 SEÑA-PERSONAL(DARIO) Pro2-PAGAR-Pro3
+
+*¿subordinante?
+*2 hasta utilizado sin det de tiempo
+*3 subordinante
+*4 error
+
+Traducción:
+
+1) Hola a todos. Buenas. Espero que estén bien
+Qué hay en este mes de octubre?
+Qué hay durante este mes? A lo largo de este mes será el aniversario de la comisión de juventud de la asociación de sordos.
+
+	Cuál es la fecha de fundación?
+	16 de octubre de 1968
+	Dentro de un tiempo cumplirá 45 años
+
+2) Hola a todos. Acá les voy a contar sobre la fiesta que habrá el 9 de noviembre próximo.
+La fiesta será de 8 de la noche a 2 de la mañana aproximadamente.
+Dónde será la fiesta? En el locar de la Asociación de Sordos del Uruguay
+Por favor, vengan a divertirse  
+
+3) Le vamos a contar a ustedes sobre la fiesta.
+Habrá comida, asado, pollo, chorizos, ensalada rusa, ensalada de tomate y lechuga, postre y torta. La bebida es aparte
+Va haber actividades divertidas y sorteos. Concurso de Reina. No solo para mujeres sino también para hombres. El concurso tendrá premios sorpresa.
+
+4) Cuánta plata es la entrada? Para socios 250 pesos para no socios 350 pesos
+La bebida es aparte. Con la entrada está incluido todo lo enumerado para comer.
+Cuándo es la fecha límite para pagar la entrada? El 7 de noviembre es el último día para compar la entrada.
+ A quién se le puede pagar la entrada? Ustedes pueden avisarnos a nosotros o a Darío para pagarle a él.

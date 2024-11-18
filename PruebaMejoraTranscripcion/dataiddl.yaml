@@ -1,0 +1,23 @@
+world_size: 1
+gpu_ranks: [0]
+## Where the samples will be written
+save_data: Prueba/Trainiddl/example
+## Where the vocab(s) will be written
+src_vocab: Prueba/Trainiddl/example.vocab.src
+tgt_vocab: Prueba/Trainiddl/example.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: False
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: Prueba/data/iddl/spoken_train.txt
+        path_tgt: Prueba/data/iddl/gloss_train.txt
+    valid:
+        path_src: Prueba/data/iddl/spoken_dev.txt
+        path_tgt: Prueba/data/iddl/gloss_dev.txt
+
+
+save_checkpoint_steps: 500
+train_steps: 1000
+valid_steps: 500
